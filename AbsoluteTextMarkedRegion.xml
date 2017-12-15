@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tagset>
+  <image>
+    <imageName>./FinalDataset/Bh-L--sCAAATA2e.jpg</imageName>
+    <resolution x="598" y="286" />
+    <taggedRectangles>
+      <taggedRectangle x="11" y="12" width="157" height="29" offset="0" />
+      <taggedRectangle x="11" y="41" width="244" height="61" offset="0" />
+      <taggedRectangle x="314" y="242" width="271" height="17" offset="0" />
+      <taggedRectangle x="276" y="259" width="309" height="17" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/BsQXozkbsiBLNAXt.jpg</imageName>
+    <resolution x="480" y="270" />
+    <taggedRectangles>
+      <taggedRectangle x="231" y="122" width="104" height="17" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CIagl-yUYAAQ_-Y.jpg</imageName>
+    <resolution x="600" y="800" />
+    <taggedRectangles>
+      <taggedRectangle x="24" y="11" width="551" height="20" offset="0" />
+      <taggedRectangle x="80" y="300" width="432" height="20" offset="0" />
+      <taggedRectangle x="6" y="550" width="584" height="19" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CSUbzjRUAAIEJaP.jpg</imageName>
+    <resolution x="599" y="380" />
+    <taggedRectangles>
+      <taggedRectangle x="93" y="22" width="67" height="19" offset="0" />
+      <taggedRectangle x="30" y="52" width="135" height="32" offset="0" />
+      <taggedRectangle x="210" y="35" width="380" height="50" offset="0" />
+      <taggedRectangle x="12" y="114" width="23" height="166" offset="0" />
+      <taggedRectangle x="44" y="114" width="230" height="32" offset="0" />
+      <taggedRectangle x="44" y="146" width="439" height="34" offset="0" />
+      <taggedRectangle x="44" y="180" width="170" height="34" offset="0" />
+      <taggedRectangle x="44" y="214" width="255" height="35" offset="0" />
+      <taggedRectangle x="44" y="249" width="459" height="34" offset="0" />
+      <taggedRectangle x="47" y="318" width="46" height="18" offset="0" />
+      <taggedRectangle x="16" y="336" width="77" height="22" offset="0" />
+      <taggedRectangle x="234" y="341" width="92" height="18" offset="0" />
+      <taggedRectangle x="381" y="339" width="88" height="20" offset="0" />
+      <taggedRectangle x="514" y="340" width="78" height="18" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CSdbbh8WcAACll4.jpg</imageName>
+    <resolution x="599" y="294" />
+    <taggedRectangles>
+      <taggedRectangle x="29" y="2" width="540" height="19" offset="0" />
+      <taggedRectangle x="449" y="269" width="145" height="18" offset="0" />
+      <taggedRectangle x="4" y="77" width="116" height="139" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CSouTLKUEAAqdit.png</imageName>
+    <resolution x="600" y="300" />
+    <taggedRectangles>
+      <taggedRectangle x="154" y="41" width="198" height="77" offset="0" />
+      <taggedRectangle x="96" y="118" width="258" height="52" offset="0" />
+      <taggedRectangle x="126" y="177" width="411" height="36" offset="0" />
+      <taggedRectangle x="147" y="213" width="371" height="37" offset="0" />
+      <taggedRectangle x="185" y="266" width="250" height="25" offset="0" />
+      <taggedRectangle x="363" y="57" width="160" height="80" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CT6FPcYUkAEesj2.jpg</imageName>
+    <resolution x="600" y="581" />
+    <taggedRectangles>
+      <taggedRectangle x="522" y="380" width="66" height="18" offset="0" />
+      <taggedRectangle x="13" y="490" width="546" height="29" offset="0" />
+      <taggedRectangle x="13" y="521" width="489" height="30" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CT6cxxPUsAEy_4P.jpg</imageName>
+    <resolution x="600" y="338" />
+    <taggedRectangles>
+      <taggedRectangle x="14" y="284" width="560" height="37" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CT6voaTU8AAbWHU.jpg</imageName>
+    <resolution x="396" y="289" />
+    <taggedRectangles>
+      <taggedRectangle x="70" y="69" width="160" height="23" offset="0" />
+      <taggedRectangle x="71" y="111" width="202" height="23" offset="0" />
+      <taggedRectangle x="257" y="141" width="122" height="24" offset="0" />
+      <taggedRectangle x="70" y="228" width="168" height="17" offset="0" />
+      <taggedRectangle x="328" y="175" width="60" height="18" offset="0" />
+      <taggedRectangle x="312" y="226" width="74" height="18" offset="0" />
+      <taggedRectangle x="71" y="261" width="50" height="15" offset="0" />
+      <taggedRectangle x="343" y="252" width="44" height="17" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CTZAdb3XIAAoOb2.jpg</imageName>
+    <resolution x="600" y="450" />
+    <taggedRectangles>
+      <taggedRectangle x="66" y="11" width="475" height="20" offset="0" />
+      <taggedRectangle x="221" y="31" width="152" height="21" offset="0" />
+      <taggedRectangle x="80" y="67" width="324" height="29" offset="0" />
+      <taggedRectangle x="250" y="161" width="293" height="20" offset="0" />
+      <taggedRectangle x="268" y="212" width="252" height="20" offset="0" />
+      <taggedRectangle x="47" y="300" width="526" height="20" offset="0" />
+      <taggedRectangle x="509" y="69" width="78" height="42" offset="0" />
+      <taggedRectangle x="424" y="413" width="157" height="20" offset="0" />
+      <taggedRectangle x="7" y="429" width="83" height="18" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CTvYtuQUAAAGZ7-.jpg</imageName>
+    <resolution x="300" y="397" />
+    <taggedRectangles>
+      <taggedRectangle x="28" y="15" width="247" height="29" offset="0" />
+      <taggedRectangle x="20" y="46" width="261" height="29" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CU4EQkjUkAAeqT8.jpg</imageName>
+    <resolution x="600" y="480" />
+    <taggedRectangles>
+      <taggedRectangle x="25" y="12" width="77" height="32" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CU8C_qFVAAACEwC.jpg</imageName>
+    <resolution x="600" y="296" />
+    <taggedRectangles>
+      <taggedRectangle x="204" y="58" width="364" height="30" offset="0" />
+      <taggedRectangle x="204" y="88" width="294" height="30" offset="0" />
+      <taggedRectangle x="208" y="118" width="142" height="168" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUF0BHuVAAAvGn2.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="419" y="3" width="182" height="13" offset="0" />
+      <taggedRectangle x="140" y="50" width="384" height="28" offset="0" />
+      <taggedRectangle x="164" y="188" width="347" height="25" offset="0" />
+      <taggedRectangle x="264" y="213" width="247" height="15" offset="0" />
+      <taggedRectangle x="92" y="244" width="422" height="52" offset="0" />
+      <taggedRectangle x="114" y="314" width="403" height="24" offset="0" />
+      <taggedRectangle x="114" y="343" width="403" height="22" offset="0" />
+      <taggedRectangle x="396" y="463" width="182" height="30" offset="0" />
+      <taggedRectangle x="36" y="329" width="61" height="24" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUK30cLUwAAb7s4.jpg</imageName>
+    <resolution x="502" y="234" />
+    <taggedRectangles>
+      <taggedRectangle x="254" y="114" width="92" height="16" offset="0" />
+      <taggedRectangle x="254" y="132" width="134" height="15" offset="0" />
+      <taggedRectangle x="212" y="156" width="290" height="59" offset="0" />
+      <taggedRectangle x="212" y="215" width="90" height="15" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUP647IUEAAKbj5.jpg</imageName>
+    <resolution x="600" y="399" />
+    <taggedRectangles>
+      <taggedRectangle x="4" y="192" width="385" height="68" offset="0" />
+      <taggedRectangle x="272" y="314" width="328" height="26" offset="0" />
+      <taggedRectangle x="280" y="360" width="307" height="30" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUQTqHbVAAAUC-o.jpg</imageName>
+    <resolution x="480" y="360" />
+    <taggedRectangles>
+      <taggedRectangle x="83" y="10" width="93" height="30" offset="0" />
+      <taggedRectangle x="91" y="44" width="79" height="35" offset="0" />
+      <taggedRectangle x="295" y="10" width="140" height="32" offset="0" />
+      <taggedRectangle x="281" y="44" width="172" height="35" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CU_ue4nVAAAPkA5.jpg</imageName>
+    <resolution x="600" y="513" />
+    <taggedRectangles>
+      <taggedRectangle x="86" y="23" width="145" height="47" offset="0" />
+      <taggedRectangle x="205" y="106" width="168" height="38" offset="0" />
+      <taggedRectangle x="7" y="196" width="518" height="37" offset="0" />
+      <taggedRectangle x="7" y="237" width="136" height="33" offset="0" />
+      <taggedRectangle x="7" y="322" width="558" height="37" offset="0" />
+      <taggedRectangle x="7" y="365" width="320" height="33" offset="0" />
+      <taggedRectangle x="104" y="446" width="345" height="39" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUbdIVoUYAAgDte.jpg</imageName>
+    <resolution x="333" y="234" />
+    <taggedRectangles>
+      <taggedRectangle x="8" y="191" width="317" height="16" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUbozusVEAAZNjk.jpg</imageName>
+    <resolution x="336" y="289" />
+    <taggedRectangles>
+      <taggedRectangle x="13" y="9" width="61" height="20" offset="0" />
+      <taggedRectangle x="13" y="44" width="125" height="20" offset="0" />
+      <taggedRectangle x="13" y="83" width="259" height="20" offset="0" />
+      <taggedRectangle x="13" y="118" width="190" height="20" offset="0" />
+      <taggedRectangle x="13" y="154" width="123" height="20" offset="0" />
+      <taggedRectangle x="169" y="164" width="168" height="20" offset="0" />
+      <taggedRectangle x="13" y="192" width="85" height="20" offset="0" />
+      <taggedRectangle x="13" y="226" width="314" height="20" offset="0" />
+      <taggedRectangle x="13" y="263" width="60" height="20" offset="0" />
+      <taggedRectangle x="247" y="266" width="60" height="18" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUe6l4rVEAAIorI.jpg</imageName>
+    <resolution x="300" y="351" />
+    <taggedRectangles>
+      <taggedRectangle x="8" y="8" width="285" height="31" offset="0" />
+      <taggedRectangle x="8" y="39" width="285" height="31" offset="0" />
+      <taggedRectangle x="10" y="92" width="215" height="18" offset="0" />
+      <taggedRectangle x="25" y="143" width="56" height="22" offset="0" />
+      <taggedRectangle x="59" y="253" width="168" height="27" offset="0" />
+      <taggedRectangle x="1" y="278" width="289" height="28" offset="0" />
+      <taggedRectangle x="40" y="306" width="224" height="22" offset="0" />
+      <taggedRectangle x="5" y="328" width="293" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUjEl7aUcAIgRJI.jpg</imageName>
+    <resolution x="434" y="261" />
+    <taggedRectangles>
+      <taggedRectangle x="36" y="1" width="342" height="35" offset="0" />
+      <taggedRectangle x="99" y="226" width="236" height="34" offset="0" />
+      <taggedRectangle x="280" y="78" width="85" height="22" offset="0" />
+      <taggedRectangle x="23" y="182" width="167" height="24" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUlGRrFVEAAeKFX.jpg</imageName>
+    <resolution x="432" y="288" />
+    <taggedRectangles>
+      <taggedRectangle x="100" y="28" width="229" height="54" offset="0" />
+      <taggedRectangle x="33" y="99" width="66" height="19" offset="0" />
+      <taggedRectangle x="288" y="95" width="144" height="23" offset="0" />
+      <taggedRectangle x="17" y="118" width="416" height="90" offset="0" />
+      <taggedRectangle x="17" y="208" width="261" height="35" offset="0" />
+      <taggedRectangle x="27" y="243" width="379" height="22" offset="0" />
+      <taggedRectangle x="62" y="265" width="289" height="19" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUlqYfRU8AIyG8U.jpg</imageName>
+    <resolution x="480" y="378" />
+    <taggedRectangles>
+      <taggedRectangle x="118" y="7" width="245" height="29" offset="0" />
+      <taggedRectangle x="222" y="107" width="190" height="28" offset="0" />
+      <taggedRectangle x="21" y="338" width="438" height="30" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUo8R-3WEAEQfv4.jpg</imageName>
+    <resolution x="600" y="222" />
+    <taggedRectangles>
+      <taggedRectangle x="327" y="11" width="248" height="36" offset="0" />
+      <taggedRectangle x="346" y="51" width="208" height="35" offset="0" />
+      <taggedRectangle x="315" y="89" width="268" height="34" offset="0" />
+      <taggedRectangle x="345" y="126" width="205" height="35" offset="0" />
+      <taggedRectangle x="401" y="170" width="97" height="20" offset="0" />
+      <taggedRectangle x="310" y="190" width="280" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUs4Vi9WoAAgN8j.jpg</imageName>
+    <resolution x="600" y="367" />
+    <taggedRectangles>
+      <taggedRectangle x="46" y="226" width="510" height="34" offset="0" />
+      <taggedRectangle x="147" y="265" width="315" height="22" offset="0" />
+      <taggedRectangle x="16" y="266" width="105" height="15" offset="0" />
+      <taggedRectangle x="484" y="266" width="98" height="15" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUt7CEwUcAAaoGx.jpg</imageName>
+    <resolution x="600" y="286" />
+    <taggedRectangles>
+      <taggedRectangle x="6" y="7" width="214" height="18" offset="0" />
+      <taggedRectangle x="14" y="35" width="282" height="74" offset="0" />
+      <taggedRectangle x="296" y="60" width="299" height="23" offset="0" />
+      <taggedRectangle x="14" y="109" width="581" height="40" offset="0" />
+      <taggedRectangle x="14" y="149" width="58" height="28" offset="0" />
+      <taggedRectangle x="14" y="177" width="581" height="37" offset="0" />
+      <taggedRectangle x="14" y="214" width="51" height="28" offset="0" />
+      <taggedRectangle x="14" y="242" width="581" height="18" offset="0" />
+      <taggedRectangle x="14" y="260" width="335" height="24" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUtgUzSWIAA1tst.png</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="55" y="66" width="498" height="35" offset="0" />
+      <taggedRectangle x="55" y="12" width="172" height="34" offset="0" />
+      <taggedRectangle x="405" y="16" width="130" height="29" offset="0" />
+      <taggedRectangle x="49" y="151" width="367" height="23" offset="0" />
+      <taggedRectangle x="49" y="199" width="321" height="23" offset="0" />
+      <taggedRectangle x="49" y="247" width="287" height="23" offset="0" />
+      <taggedRectangle x="49" y="295" width="283" height="23" offset="0" />
+      <taggedRectangle x="49" y="343" width="136" height="23" offset="0" />
+      <taggedRectangle x="40" y="569" width="172" height="22" offset="0" />
+      <taggedRectangle x="284" y="569" width="121" height="22" offset="0" />
+      <taggedRectangle x="473" y="569" width="121" height="22" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUuBwHTUcAA7CgJ.jpg</imageName>
+    <resolution x="600" y="397" />
+    <taggedRectangles>
+      <taggedRectangle x="2" y="4" width="144" height="25" offset="0" />
+      <taggedRectangle x="143" y="3" width="79" height="109" offset="0" />
+      <taggedRectangle x="238" y="1" width="79" height="114" offset="0" />
+      <taggedRectangle x="391" y="3" width="41" height="110" offset="0" />
+      <taggedRectangle x="480" y="3" width="41" height="110" offset="0" />
+      <taggedRectangle x="3" y="117" width="243" height="197" offset="0" />
+      <taggedRectangle x="377" y="120" width="204" height="215" offset="0" />
+      <taggedRectangle x="114" y="314" width="266" height="26" offset="0" />
+      <taggedRectangle x="282" y="343" width="46" height="16" offset="0" />
+      <taggedRectangle x="1" y="377" width="177" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUvPJWYUwAAM9EA.png</imageName>
+    <resolution x="600" y="729" />
+    <taggedRectangles>
+      <taggedRectangle x="93" y="19" width="90" height="37" offset="0" />
+      <taggedRectangle x="131" y="116" width="269" height="30" offset="0" />
+      <taggedRectangle x="131" y="152" width="201" height="32" offset="0" />
+      <taggedRectangle x="20" y="218" width="540" height="34" offset="0" />
+      <taggedRectangle x="20" y="263" width="385" height="35" offset="0" />
+      <taggedRectangle x="20" y="307" width="405" height="35" offset="0" />
+      <taggedRectangle x="57" y="378" width="125" height="30" offset="0" />
+      <taggedRectangle x="17" y="423" width="436" height="34" offset="0" />
+      <taggedRectangle x="17" y="462" width="159" height="36" offset="0" />
+      <taggedRectangle x="17" y="504" width="525" height="30" offset="0" />
+      <taggedRectangle x="17" y="538" width="182" height="27" offset="0" />
+      <taggedRectangle x="168" y="604" width="262" height="30" offset="0" />
+      <taggedRectangle x="19" y="677" width="553" height="26" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CUzEfjBVAAA3gdw.png</imageName>
+    <resolution x="600" y="410" />
+    <taggedRectangles>
+      <taggedRectangle x="20" y="42" width="97" height="29" offset="0" />
+      <taggedRectangle x="6" y="71" width="128" height="17" offset="0" />
+      <taggedRectangle x="231" y="99" width="133" height="24" offset="0" />
+      <taggedRectangle x="166" y="208" width="270" height="23" offset="0" />
+      <taggedRectangle x="23" y="267" width="558" height="75" offset="0" />
+      <taggedRectangle x="185" y="342" width="228" height="18" offset="0" />
+      <taggedRectangle x="524" y="358" width="71" height="21" offset="0" />
+      <taggedRectangle x="489" y="379" width="106" height="17" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV06vA2UAAA8Npp.jpg</imageName>
+    <resolution x="504" y="396" />
+    <taggedRectangles>
+      <taggedRectangle x="25" y="13" width="135" height="24" offset="0" />
+      <taggedRectangle x="361" y="225" width="122" height="27" offset="0" />
+      <taggedRectangle x="362" y="262" width="98" height="32" offset="0" />
+      <taggedRectangle x="362" y="294" width="129" height="59" offset="0" />
+      <taggedRectangle x="209" y="222" width="140" height="105" offset="0" />
+      <taggedRectangle x="261" y="327" width="87" height="26" offset="0" />
+      <taggedRectangle x="188" y="359" width="168" height="17" offset="0" />
+      <taggedRectangle x="188" y="376" width="297" height="21" offset="0" />
+      <taggedRectangle x="15" y="362" width="157" height="27" offset="0" />
+      <taggedRectangle x="17" y="260" width="100" height="93" offset="0" />
+      <taggedRectangle x="120" y="260" width="78" height="93" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV0Gmz0UEAAWCY6.jpg</imageName>
+    <resolution x="600" y="300" />
+    <taggedRectangles>
+      <taggedRectangle x="92" y="6" width="186" height="58" offset="0" />
+      <taggedRectangle x="253" y="422" width="230" height="48" offset="0" />
+      <taggedRectangle x="286" y="41" width="226" height="24" offset="0" />
+      <taggedRectangle x="295" y="75" width="259" height="39" offset="0" />
+      <taggedRectangle x="253" y="114" width="338" height="38" offset="0" />
+      <taggedRectangle x="233" y="168" width="353" height="28" offset="0" />
+      <taggedRectangle x="284" y="196" width="250" height="33" offset="0" />
+      <taggedRectangle x="256" y="239" width="333" height="25" offset="0" />
+      <taggedRectangle x="357" y="264" width="232" height="25" offset="0" />
+      <taggedRectangle x="33" y="274" width="143" height="20" offset="0" />
+      <taggedRectangle x="15" y="148" width="22" height="48" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV0otsRWEAAzQpB.png</imageName>
+    <resolution x="600" y="842" />
+    <taggedRectangles>
+      <taggedRectangle x="31" y="31" width="467" height="32" offset="0" />
+      <taggedRectangle x="31" y="82" width="524" height="32" offset="0" />
+      <taggedRectangle x="31" y="129" width="449" height="32" offset="0" />
+      <taggedRectangle x="31" y="182" width="522" height="32" offset="0" />
+      <taggedRectangle x="31" y="230" width="498" height="32" offset="0" />
+      <taggedRectangle x="31" y="281" width="465" height="32" offset="0" />
+      <taggedRectangle x="31" y="331" width="518" height="32" offset="0" />
+      <taggedRectangle x="31" y="382" width="475" height="32" offset="0" />
+      <taggedRectangle x="31" y="432" width="504" height="32" offset="0" />
+      <taggedRectangle x="31" y="482" width="484" height="32" offset="0" />
+      <taggedRectangle x="31" y="531" width="530" height="32" offset="0" />
+      <taggedRectangle x="31" y="579" width="470" height="32" offset="0" />
+      <taggedRectangle x="31" y="632" width="452" height="32" offset="0" />
+      <taggedRectangle x="31" y="681" width="500" height="32" offset="0" />
+      <taggedRectangle x="31" y="732" width="525" height="32" offset="0" />
+      <taggedRectangle x="31" y="783" width="213" height="32" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV10-DaUYAElSow.png</imageName>
+    <resolution x="596" y="574" />
+    <taggedRectangles>
+      <taggedRectangle x="53" y="41" width="462" height="36" offset="0" />
+      <taggedRectangle x="46" y="83" width="481" height="36" offset="0" />
+      <taggedRectangle x="150" y="171" width="298" height="31" offset="0" />
+      <taggedRectangle x="128" y="277" width="342" height="50" offset="0" />
+      <taggedRectangle x="153" y="415" width="291" height="37" offset="0" />
+      <taggedRectangle x="71" y="532" width="89" height="26" offset="0" />
+      <taggedRectangle x="233" y="520" width="35" height="33" offset="0" />
+      <taggedRectangle x="269" y="525" width="120" height="29" offset="0" />
+      <taggedRectangle x="448" y="517" width="105" height="45" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV12HsSVEAAOqH2.png</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="204" y="49" width="201" height="40" offset="0" />
+      <taggedRectangle x="25" y="346" width="379" height="40" offset="0" />
+      <taggedRectangle x="25" y="389" width="308" height="26" offset="0" />
+      <taggedRectangle x="25" y="415" width="350" height="24" offset="0" />
+      <taggedRectangle x="25" y="439" width="88" height="22" offset="0" />
+      <taggedRectangle x="25" y="467" width="385" height="24" offset="0" />
+      <taggedRectangle x="25" y="491" width="304" height="23" offset="0" />
+      <taggedRectangle x="25" y="530" width="422" height="24" offset="0" />
+      <taggedRectangle x="25" y="554" width="140" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV16rMUUEAAqjgB.jpg</imageName>
+    <resolution x="600" y="450" />
+    <taggedRectangles>
+      <taggedRectangle x="154" y="27" width="295" height="21" offset="0" />
+      <taggedRectangle x="129" y="71" width="342" height="28" offset="0" />
+      <taggedRectangle x="9" y="414" width="58" height="12" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV192UTUkAAIvbw.jpg</imageName>
+    <resolution x="600" y="350" />
+    <taggedRectangles>
+      <taggedRectangle x="136" y="82" width="439" height="38" offset="0" />
+      <taggedRectangle x="244" y="126" width="221" height="36" offset="0" />
+      <taggedRectangle x="454" y="245" width="85" height="15" offset="0" />
+      <taggedRectangle x="69" y="245" width="174" height="41" offset="0" />
+      <taggedRectangle x="371" y="311" width="99" height="16" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1QNv8WUAQtGaY.jpg</imageName>
+    <resolution x="480" y="480" />
+    <taggedRectangles>
+      <taggedRectangle x="44" y="74" width="171" height="30" offset="0" />
+      <taggedRectangle x="44" y="104" width="124" height="22" offset="0" />
+      <taggedRectangle x="44" y="126" width="231" height="42" offset="0" />
+      <taggedRectangle x="403" y="243" width="72" height="19" offset="0" />
+      <taggedRectangle x="41" y="309" width="214" height="51" offset="0" />
+      <taggedRectangle x="41" y="360" width="305" height="43" offset="0" />
+      <taggedRectangle x="41" y="403" width="102" height="18" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1_ozoU4AI5JX6.jpg</imageName>
+    <resolution x="600" y="424" />
+    <taggedRectangles>
+      <taggedRectangle x="26" y="11" width="262" height="58" offset="0" />
+      <taggedRectangle x="5" y="96" width="315" height="18" offset="0" />
+      <taggedRectangle x="30" y="114" width="268" height="18" offset="0" />
+      <taggedRectangle x="105" y="132" width="115" height="18" offset="0" />
+      <taggedRectangle x="9" y="169" width="309" height="24" offset="0" />
+      <taggedRectangle x="24" y="193" width="281" height="42" offset="0" />
+      <taggedRectangle x="40" y="235" width="250" height="24" offset="0" />
+      <taggedRectangle x="65" y="259" width="196" height="23" offset="0" />
+      <taggedRectangle x="59" y="300" width="217" height="52" offset="0" />
+      <taggedRectangle x="30" y="381" width="188" height="30" offset="0" />
+      <taggedRectangle x="351" y="383" width="220" height="34" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1daAAWwAAV8IJ.jpg</imageName>
+    <resolution x="600" y="503" />
+    <taggedRectangles>
+      <taggedRectangle x="541" y="1" width="60" height="58" offset="0" />
+      <taggedRectangle x="332" y="99" width="247" height="40" offset="0" />
+      <taggedRectangle x="372" y="148" width="153" height="40" offset="0" />
+      <taggedRectangle x="339" y="196" width="216" height="40" offset="0" />
+      <taggedRectangle x="395" y="245" width="107" height="40" offset="0" />
+      <taggedRectangle x="336" y="296" width="224" height="40" offset="0" />
+      <taggedRectangle x="366" y="349" width="169" height="40" offset="0" />
+      <taggedRectangle x="369" y="398" width="159" height="40" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1h19MUwAARGKf.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="127" y="88" width="357" height="44" offset="0" />
+      <taggedRectangle x="141" y="142" width="340" height="45" offset="0" />
+      <taggedRectangle x="104" y="208" width="418" height="48" offset="0" />
+      <taggedRectangle x="133" y="262" width="353" height="46" offset="0" />
+      <taggedRectangle x="142" y="323" width="328" height="43" offset="0" />
+      <taggedRectangle x="38" y="381" width="540" height="43" offset="0" />
+      <taggedRectangle x="196" y="442" width="243" height="43" offset="0" />
+      <taggedRectangle x="27" y="530" width="77" height="43" offset="0" />
+      <taggedRectangle x="171" y="540" width="268" height="32" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1hHPPWIAArCOM.png</imageName>
+    <resolution x="600" y="1067" />
+    <taggedRectangles>
+      <taggedRectangle x="534" y="6" width="62" height="25" offset="0" />
+      <taggedRectangle x="74" y="55" width="79" height="32" offset="0" />
+      <taggedRectangle x="16" y="110" width="94" height="22" offset="0" />
+      <taggedRectangle x="16" y="134" width="246" height="27" offset="0" />
+      <taggedRectangle x="16" y="162" width="549" height="24" offset="0" />
+      <taggedRectangle x="16" y="186" width="255" height="26" offset="0" />
+      <taggedRectangle x="16" y="212" width="483" height="27" offset="0" />
+      <taggedRectangle x="16" y="264" width="85" height="28" offset="0" />
+      <taggedRectangle x="16" y="292" width="222" height="26" offset="0" />
+      <taggedRectangle x="16" y="318" width="170" height="26" offset="0" />
+      <taggedRectangle x="16" y="344" width="323" height="26" offset="0" />
+      <taggedRectangle x="16" y="370" width="63" height="25" offset="0" />
+      <taggedRectangle x="16" y="395" width="393" height="28" offset="0" />
+      <taggedRectangle x="16" y="449" width="82" height="26" offset="0" />
+      <taggedRectangle x="16" y="475" width="160" height="25" offset="0" />
+      <taggedRectangle x="16" y="500" width="141" height="25" offset="0" />
+      <taggedRectangle x="16" y="525" width="293" height="27" offset="0" />
+      <taggedRectangle x="16" y="552" width="338" height="27" offset="0" />
+      <taggedRectangle x="16" y="579" width="62" height="27" offset="0" />
+      <taggedRectangle x="16" y="606" width="282" height="26" offset="0" />
+      <taggedRectangle x="16" y="656" width="80" height="26" offset="0" />
+      <taggedRectangle x="16" y="682" width="101" height="26" offset="0" />
+      <taggedRectangle x="16" y="708" width="163" height="28" offset="0" />
+      <taggedRectangle x="16" y="736" width="108" height="26" offset="0" />
+      <taggedRectangle x="16" y="762" width="69" height="25" offset="0" />
+      <taggedRectangle x="16" y="787" width="336" height="27" offset="0" />
+      <taggedRectangle x="16" y="840" width="81" height="26" offset="0" />
+      <taggedRectangle x="16" y="866" width="118" height="26" offset="0" />
+      <taggedRectangle x="16" y="892" width="390" height="26" offset="0" />
+      <taggedRectangle x="77" y="948" width="207" height="30" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1hgTWU4AANkxF.jpg</imageName>
+    <resolution x="500" y="487" />
+    <taggedRectangles>
+      <taggedRectangle x="124" y="29" width="238" height="36" offset="0" />
+      <taggedRectangle x="84" y="80" width="318" height="41" offset="0" />
+      <taggedRectangle x="32" y="131" width="435" height="41" offset="0" />
+      <taggedRectangle x="111" y="183" width="280" height="36" offset="0" />
+      <taggedRectangle x="64" y="236" width="360" height="41" offset="0" />
+      <taggedRectangle x="61" y="283" width="373" height="41" offset="0" />
+      <taggedRectangle x="140" y="340" width="209" height="29" offset="0" />
+      <taggedRectangle x="184" y="434" width="138" height="24" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1iDXTUwAAPgP7.jpg</imageName>
+    <resolution x="600" y="455" />
+    <taggedRectangles>
+      <taggedRectangle x="16" y="5" width="292" height="35" offset="0" />
+      <taggedRectangle x="16" y="40" width="431" height="18" offset="0" />
+      <taggedRectangle x="16" y="58" width="267" height="17" offset="0" />
+      <taggedRectangle x="16" y="89" width="215" height="39" offset="0" />
+      <taggedRectangle x="16" y="128" width="573" height="17" offset="0" />
+      <taggedRectangle x="16" y="145" width="453" height="18" offset="0" />
+      <taggedRectangle x="16" y="163" width="324" height="18" offset="0" />
+      <taggedRectangle x="16" y="197" width="257" height="34" offset="0" />
+      <taggedRectangle x="16" y="231" width="582" height="18" offset="0" />
+      <taggedRectangle x="16" y="249" width="247" height="20" offset="0" />
+      <taggedRectangle x="16" y="284" width="208" height="19" offset="0" />
+      <taggedRectangle x="16" y="303" width="302" height="34" offset="0" />
+      <taggedRectangle x="16" y="337" width="158" height="19" offset="0" />
+      <taggedRectangle x="16" y="373" width="274" height="16" offset="0" />
+      <taggedRectangle x="16" y="389" width="335" height="18" offset="0" />
+      <taggedRectangle x="16" y="407" width="298" height="16" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1igprUsAIgMd9.jpg</imageName>
+    <resolution x="575" y="1024" />
+    <taggedRectangles>
+      <taggedRectangle x="21" y="522" width="510" height="33" offset="0" />
+      <taggedRectangle x="21" y="555" width="83" height="32" offset="0" />
+      <taggedRectangle x="21" y="600" width="505" height="98" offset="0" />
+      <taggedRectangle x="21" y="698" width="534" height="34" offset="0" />
+      <taggedRectangle x="21" y="732" width="458" height="31" offset="0" />
+      <taggedRectangle x="21" y="763" width="493" height="65" offset="0" />
+      <taggedRectangle x="21" y="828" width="153" height="33" offset="0" />
+      <taggedRectangle x="23" y="879" width="270" height="23" offset="0" />
+      <taggedRectangle x="222" y="980" width="79" height="21" offset="0" />
+      <taggedRectangle x="301" y="987" width="78" height="14" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1lMQ2WwAA_2vS.jpg</imageName>
+    <resolution x="600" y="450" />
+    <taggedRectangles>
+      <taggedRectangle x="93" y="108" width="125" height="20" offset="0" />
+      <taggedRectangle x="82" y="147" width="419" height="27" offset="0" />
+      <taggedRectangle x="96" y="174" width="425" height="26" offset="0" />
+      <taggedRectangle x="96" y="218" width="85" height="18" offset="0" />
+      <taggedRectangle x="96" y="236" width="181" height="17" offset="0" />
+      <taggedRectangle x="58" y="409" width="71" height="19" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1xeG2UYAQtJ2E.jpg</imageName>
+    <resolution x="600" y="429" />
+    <taggedRectangles>
+      <taggedRectangle x="15" y="55" width="172" height="44" offset="0" />
+      <taggedRectangle x="15" y="99" width="98" height="19" offset="0" />
+      <taggedRectangle x="327" y="27" width="175" height="27" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1y95uUYAA2scY.jpg</imageName>
+    <resolution x="600" y="888" />
+    <taggedRectangles>
+      <taggedRectangle x="27" y="1" width="491" height="39" offset="0" />
+      <taggedRectangle x="27" y="47" width="447" height="41" offset="0" />
+      <taggedRectangle x="25" y="99" width="404" height="26" offset="0" />
+      <taggedRectangle x="25" y="128" width="272" height="30" offset="0" />
+      <taggedRectangle x="25" y="498" width="510" height="26" offset="0" />
+      <taggedRectangle x="25" y="524" width="265" height="25" offset="0" />
+      <taggedRectangle x="51" y="599" width="63" height="24" offset="0" />
+      <taggedRectangle x="118" y="597" width="56" height="28" offset="0" />
+      <taggedRectangle x="215" y="598" width="56" height="22" offset="0" />
+      <taggedRectangle x="325" y="596" width="53" height="27" offset="0" />
+      <taggedRectangle x="17" y="653" width="507" height="34" offset="0" />
+      <taggedRectangle x="17" y="695" width="509" height="31" offset="0" />
+      <taggedRectangle x="17" y="813" width="567" height="32" offset="0" />
+      <taggedRectangle x="17" y="734" width="566" height="31" offset="0" />
+      <taggedRectangle x="17" y="853" width="561" height="36" offset="0" />
+      <taggedRectangle x="17" y="774" width="461" height="33" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1z39yUwAAQ-1p.jpg</imageName>
+    <resolution x="480" y="480" />
+    <taggedRectangles>
+      <taggedRectangle x="198" y="65" width="86" height="53" offset="0" />
+      <taggedRectangle x="49" y="146" width="387" height="41" offset="0" />
+      <taggedRectangle x="127" y="190" width="231" height="38" offset="0" />
+      <taggedRectangle x="69" y="233" width="347" height="38" offset="0" />
+      <taggedRectangle x="175" y="276" width="133" height="36" offset="0" />
+      <taggedRectangle x="9" y="448" width="123" height="25" offset="0" />
+      <taggedRectangle x="348" y="448" width="126" height="25" offset="0" />
+      <taggedRectangle x="156" y="327" width="173" height="27" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV200NkUkAAE41Z.png</imageName>
+    <resolution x="480" y="480" />
+    <taggedRectangles>
+      <taggedRectangle x="39" y="41" width="98" height="60" offset="0" />
+      <taggedRectangle x="375" y="15" width="96" height="16" offset="0" />
+      <taggedRectangle x="95" y="342" width="281" height="27" offset="0" />
+      <taggedRectangle x="145" y="369" width="189" height="27" offset="0" />
+      <taggedRectangle x="102" y="416" width="357" height="23" offset="0" />
+      <taggedRectangle x="102" y="439" width="213" height="23" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV21YuNUAAAIPHi.png</imageName>
+    <resolution x="502" y="258" />
+    <taggedRectangles>
+      <taggedRectangle x="13" y="12" width="47" height="39" offset="0" />
+      <taggedRectangle x="70" y="6" width="108" height="46" offset="0" />
+      <taggedRectangle x="195" y="10" width="293" height="40" offset="0" />
+      <taggedRectangle x="195" y="66" width="270" height="25" offset="0" />
+      <taggedRectangle x="195" y="91" width="290" height="25" offset="0" />
+      <taggedRectangle x="195" y="116" width="261" height="27" offset="0" />
+      <taggedRectangle x="195" y="143" width="237" height="25" offset="0" />
+      <taggedRectangle x="195" y="168" width="214" height="25" offset="0" />
+      <taggedRectangle x="194" y="205" width="105" height="23" offset="0" />
+      <taggedRectangle x="194" y="228" width="289" height="15" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV25XOfWIAAQOh8.jpg</imageName>
+    <resolution x="600" y="301" />
+    <taggedRectangles>
+      <taggedRectangle x="42" y="10" width="151" height="23" offset="0" />
+      <taggedRectangle x="20" y="45" width="160" height="19" offset="0" />
+      <taggedRectangle x="286" y="122" width="234" height="46" offset="0" />
+      <taggedRectangle x="422" y="168" width="91" height="37" offset="0" />
+      <taggedRectangle x="43" y="258" width="521" height="24" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2Cl_4UkAQXJmx.jpg</imageName>
+    <resolution x="600" y="1067" />
+    <taggedRectangles>
+      <taggedRectangle x="10" y="5" width="72" height="25" offset="0" />
+      <taggedRectangle x="280" y="5" width="69" height="23" offset="0" />
+      <taggedRectangle x="411" y="5" width="100" height="24" offset="0" />
+      <taggedRectangle x="560" y="6" width="37" height="22" offset="0" />
+      <taggedRectangle x="213" y="205" width="176" height="26" offset="0" />
+      <taggedRectangle x="239" y="231" width="124" height="22" offset="0" />
+      <taggedRectangle x="70" y="323" width="325" height="28" offset="0" />
+      <taggedRectangle x="69" y="411" width="259" height="28" offset="0" />
+      <taggedRectangle x="72" y="501" width="300" height="28" offset="0" />
+      <taggedRectangle x="72" y="587" width="146" height="26" offset="0" />
+      <taggedRectangle x="168" y="685" width="266" height="24" offset="0" />
+      <taggedRectangle x="150" y="709" width="306" height="23" offset="0" />
+      <taggedRectangle x="195" y="769" width="211" height="26" offset="0" />
+      <taggedRectangle x="26" y="851" width="153" height="21" offset="0" />
+      <taggedRectangle x="214" y="1034" width="78" height="24" offset="0" />
+      <taggedRectangle x="187" y="912" width="44" height="21" offset="0" />
+      <taggedRectangle x="52" y="994" width="69" height="19" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2D9b8WEAEJuQX.jpg</imageName>
+    <resolution x="600" y="339" />
+    <taggedRectangles>
+      <taggedRectangle x="8" y="9" width="139" height="39" offset="0" />
+      <taggedRectangle x="5" y="248" width="589" height="38" offset="0" />
+      <taggedRectangle x="117" y="289" width="370" height="38" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2DZ1gUAAA23RI.jpg</imageName>
+    <resolution x="575" y="1024" />
+    <taggedRectangles>
+      <taggedRectangle x="66" y="5" width="95" height="23" offset="0" />
+      <taggedRectangle x="246" y="5" width="95" height="24" offset="0" />
+      <taggedRectangle x="483" y="7" width="42" height="20" offset="0" />
+      <taggedRectangle x="120" y="50" width="80" height="29" offset="0" />
+      <taggedRectangle x="15" y="108" width="527" height="85" offset="0" />
+      <taggedRectangle x="15" y="193" width="539" height="86" offset="0" />
+      <taggedRectangle x="15" y="279" width="440" height="26" offset="0" />
+      <taggedRectangle x="15" y="305" width="521" height="28" offset="0" />
+      <taggedRectangle x="15" y="333" width="471" height="28" offset="0" />
+      <taggedRectangle x="15" y="361" width="539" height="164" offset="0" />
+      <taggedRectangle x="15" y="525" width="490" height="29" offset="0" />
+      <taggedRectangle x="15" y="554" width="535" height="28" offset="0" />
+      <taggedRectangle x="15" y="582" width="428" height="26" offset="0" />
+      <taggedRectangle x="12" y="1002" width="88" height="23" offset="0" />
+      <taggedRectangle x="137" y="1002" width="72" height="23" offset="0" />
+      <taggedRectangle x="243" y="1002" width="88" height="23" offset="0" />
+      <taggedRectangle x="353" y="1002" width="97" height="23" offset="0" />
+      <taggedRectangle x="495" y="1002" width="43" height="23" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2E-tMUYAAgnxt.jpg</imageName>
+    <resolution x="600" y="751" />
+    <taggedRectangles>
+      <taggedRectangle x="16" y="33" width="61" height="39" offset="0" />
+      <taggedRectangle x="92" y="20" width="228" height="24" offset="0" />
+      <taggedRectangle x="90" y="57" width="62" height="21" offset="0" />
+      <taggedRectangle x="8" y="106" width="548" height="29" offset="0" />
+      <taggedRectangle x="8" y="135" width="564" height="62" offset="0" />
+      <taggedRectangle x="8" y="197" width="582" height="29" offset="0" />
+      <taggedRectangle x="8" y="226" width="144" height="28" offset="0" />
+      <taggedRectangle x="21" y="584" width="546" height="30" offset="0" />
+      <taggedRectangle x="21" y="614" width="497" height="29" offset="0" />
+      <taggedRectangle x="22" y="654" width="291" height="23" offset="0" />
+      <taggedRectangle x="11" y="709" width="380" height="26" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2Fzw1U8AQQIoo.jpg</imageName>
+    <resolution x="480" y="480" />
+    <taggedRectangles>
+      <taggedRectangle x="40" y="12" width="411" height="34" offset="0" />
+      <taggedRectangle x="60" y="55" width="374" height="34" offset="0" />
+      <taggedRectangle x="139" y="305" width="170" height="16" offset="0" />
+      <taggedRectangle x="20" y="355" width="190" height="32" offset="0" />
+      <taggedRectangle x="272" y="355" width="170" height="32" offset="0" />
+      <taggedRectangle x="8" y="392" width="218" height="32" offset="0" />
+      <taggedRectangle x="239" y="392" width="235" height="32" offset="0" />
+      <taggedRectangle x="67" y="443" width="350" height="32" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2GhjHWUAAiSeu.png</imageName>
+    <resolution x="377" y="106" />
+    <taggedRectangles>
+      <taggedRectangle x="22" y="13" width="311" height="21" offset="0" />
+      <taggedRectangle x="22" y="34" width="234" height="19" offset="0" />
+      <taggedRectangle x="22" y="53" width="325" height="21" offset="0" />
+      <taggedRectangle x="22" y="74" width="189" height="19" offset="0" />
+      <taggedRectangle x="295" y="81" width="51" height="13" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2JoEIU8AArcv9.jpg</imageName>
+    <resolution x="480" y="480" />
+    <taggedRectangles>
+      <taggedRectangle x="13" y="12" width="145" height="20" offset="0" />
+      <taggedRectangle x="394" y="18" width="81" height="48" offset="0" />
+      <taggedRectangle x="50" y="344" width="379" height="37" offset="0" />
+      <taggedRectangle x="163" y="423" width="158" height="24" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2bAzZUsAAIh0W.jpg</imageName>
+    <resolution x="600" y="358" />
+    <taggedRectangles>
+      <taggedRectangle x="15" y="147" width="518" height="30" offset="0" />
+      <taggedRectangle x="15" y="183" width="577" height="30" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2bPlZWoAAgmU0.png</imageName>
+    <resolution x="600" y="467" />
+    <taggedRectangles>
+      <taggedRectangle x="110" y="40" width="75" height="17" offset="0" />
+      <taggedRectangle x="111" y="56" width="69" height="16" offset="0" />
+      <taggedRectangle x="485" y="40" width="41" height="18" offset="0" />
+      <taggedRectangle x="64" y="89" width="472" height="55" offset="0" />
+      <taggedRectangle x="64" y="144" width="187" height="28" offset="0" />
+      <taggedRectangle x="63" y="413" width="31" height="17" offset="0" />
+      <taggedRectangle x="132" y="411" width="23" height="21" offset="0" />
+      <taggedRectangle x="65" y="445" width="117" height="18" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV2x5x9UYAE84Vx.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="120" y="1" width="346" height="36" offset="0" />
+      <taggedRectangle x="153" y="307" width="294" height="40" offset="0" />
+      <taggedRectangle x="456" y="517" width="39" height="36" offset="0" />
+      <taggedRectangle x="520" y="519" width="37" height="29" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV31oTlVEAAWFJ2.jpg</imageName>
+    <resolution x="480" y="360" />
+    <taggedRectangles>
+      <taggedRectangle x="14" y="276" width="218" height="36" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV33CzVUwAAhdbl.jpg</imageName>
+    <resolution x="600" y="790" />
+    <taggedRectangles>
+      <taggedRectangle x="28" y="189" width="521" height="46" offset="0" />
+      <taggedRectangle x="160" y="457" width="291" height="46" offset="0" />
+      <taggedRectangle x="72" y="740" width="477" height="46" offset="0" />
+      <taggedRectangle x="7" y="537" width="174" height="46" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV33mP4U8AAqJY3.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="329" y="146" width="226" height="169" offset="0" />
+      <taggedRectangle x="332" y="316" width="216" height="27" offset="0" />
+      <taggedRectangle x="175" y="188" width="120" height="19" offset="0" />
+      <taggedRectangle x="211" y="365" width="344" height="64" offset="0" />
+      <taggedRectangle x="294" y="429" width="181" height="19" offset="0" />
+      <taggedRectangle x="313" y="448" width="133" height="19" offset="0" />
+      <taggedRectangle x="213" y="489" width="340" height="75" offset="0" />
+      <taggedRectangle x="213" y="564" width="107" height="19" offset="0" />
+      <taggedRectangle x="30" y="526" width="165" height="20" offset="0" />
+      <taggedRectangle x="70" y="545" width="78" height="14" offset="0" />
+      <taggedRectangle x="40" y="563" width="142" height="15" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV35EgSU4AEaMql.jpg</imageName>
+    <resolution x="600" y="1067" />
+    <taggedRectangles>
+      <taggedRectangle x="14" y="8" width="35" height="32" offset="0" />
+      <taggedRectangle x="418" y="13" width="35" height="22" offset="0" />
+      <taggedRectangle x="197" y="81" width="126" height="17" offset="0" />
+      <taggedRectangle x="222" y="98" width="80" height="60" offset="0" />
+      <taggedRectangle x="455" y="277" width="104" height="35" offset="0" />
+      <taggedRectangle x="485" y="7" width="104" height="33" offset="0" />
+      <taggedRectangle x="29" y="196" width="118" height="23" offset="0" />
+      <taggedRectangle x="16" y="357" width="346" height="34" offset="0" />
+      <taggedRectangle x="19" y="398" width="332" height="33" offset="0" />
+      <taggedRectangle x="16" y="452" width="556" height="36" offset="0" />
+      <taggedRectangle x="18" y="492" width="497" height="34" offset="0" />
+      <taggedRectangle x="20" y="527" width="557" height="36" offset="0" />
+      <taggedRectangle x="54" y="593" width="170" height="33" offset="0" />
+      <taggedRectangle x="18" y="651" width="203" height="29" offset="0" />
+      <taggedRectangle x="283" y="650" width="203" height="30" offset="0" />
+      <taggedRectangle x="51" y="747" width="114" height="32" offset="0" />
+      <taggedRectangle x="264" y="747" width="106" height="35" offset="0" />
+      <taggedRectangle x="472" y="745" width="77" height="33" offset="0" />
+      <taggedRectangle x="123" y="823" width="463" height="73" offset="0" />
+      <taggedRectangle x="123" y="902" width="401" height="35" offset="0" />
+      <taggedRectangle x="124" y="940" width="432" height="39" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV37iaxUwAAGB-J.png</imageName>
+    <resolution x="484" y="362" />
+    <taggedRectangles>
+      <taggedRectangle x="21" y="295" width="451" height="44" offset="0" />
+      <taggedRectangle x="344" y="342" width="123" height="18" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV3X-TrVEAQWgo0.jpg</imageName>
+    <resolution x="599" y="376" />
+    <taggedRectangles>
+      <taggedRectangle x="157" y="45" width="285" height="70" offset="0" />
+      <taggedRectangle x="159" y="120" width="311" height="64" offset="0" />
+      <taggedRectangle x="160" y="193" width="292" height="65" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV3YsxGWsAAC84m.jpg</imageName>
+    <resolution x="600" y="408" />
+    <taggedRectangles>
+      <taggedRectangle x="1" y="5" width="242" height="26" offset="0" />
+      <taggedRectangle x="9" y="38" width="301" height="73" offset="0" />
+      <taggedRectangle x="313" y="33" width="91" height="25" offset="0" />
+      <taggedRectangle x="342" y="95" width="78" height="16" offset="0" />
+      <taggedRectangle x="512" y="62" width="39" height="45" offset="0" />
+      <taggedRectangle x="558" y="82" width="36" height="26" offset="0" />
+      <taggedRectangle x="1" y="136" width="15" height="180" offset="0" />
+      <taggedRectangle x="83" y="203" width="58" height="61" offset="0" />
+      <taggedRectangle x="585" y="162" width="16" height="154" offset="0" />
+      <taggedRectangle x="320" y="373" width="271" height="16" offset="0" />
+      <taggedRectangle x="483" y="391" width="118" height="18" offset="0" />
+      <taggedRectangle x="30" y="372" width="179" height="19" offset="0" />
+      <taggedRectangle x="22" y="352" width="556" height="18" offset="0" />
+      <taggedRectangle x="160" y="204" width="351" height="18" offset="0" />
+      <taggedRectangle x="161" y="222" width="306" height="35" offset="0" />
+      <taggedRectangle x="21" y="268" width="23" height="43" offset="0" />
+      <taggedRectangle x="50" y="275" width="20" height="36" offset="0" />
+      <taggedRectangle x="85" y="276" width="46" height="41" offset="0" />
+      <taggedRectangle x="151" y="289" width="43" height="41" offset="0" />
+      <taggedRectangle x="213" y="301" width="47" height="39" offset="0" />
+      <taggedRectangle x="278" y="314" width="44" height="31" offset="0" />
+      <taggedRectangle x="341" y="315" width="46" height="29" offset="0" />
+      <taggedRectangle x="403" y="314" width="48" height="29" offset="0" />
+      <taggedRectangle x="468" y="315" width="45" height="28" offset="0" />
+      <taggedRectangle x="533" y="293" width="18" height="55" offset="0" />
+      <taggedRectangle x="558" y="292" width="20" height="53" offset="0" />
+      <taggedRectangle x="538" y="163" width="31" height="13" offset="0" />
+      <taggedRectangle x="31" y="176" width="28" height="13" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV3j51rUwAAeGNn.jpg</imageName>
+    <resolution x="600" y="450" />
+    <taggedRectangles>
+      <taggedRectangle x="55" y="129" width="493" height="35" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV3tQczWwAA7f8O.png</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="499" y="8" width="78" height="19" offset="0" />
+      <taggedRectangle x="21" y="277" width="54" height="46" offset="0" />
+      <taggedRectangle x="87" y="277" width="122" height="46" offset="0" />
+      <taggedRectangle x="217" y="277" width="85" height="46" offset="0" />
+      <taggedRectangle x="312" y="277" width="142" height="46" offset="0" />
+      <taggedRectangle x="464" y="277" width="113" height="46" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV3uMZcUwAEyEPt.jpg</imageName>
+    <resolution x="346" y="1024" />
+    <taggedRectangles>
+      <taggedRectangle x="36" y="33" width="112" height="51" offset="0" />
+      <taggedRectangle x="179" y="30" width="142" height="235" offset="0" />
+      <taggedRectangle x="179" y="265" width="99" height="19" offset="0" />
+      <taggedRectangle x="179" y="284" width="140" height="21" offset="0" />
+      <taggedRectangle x="179" y="305" width="112" height="34" offset="0" />
+      <taggedRectangle x="179" y="339" width="75" height="20" offset="0" />
+      <taggedRectangle x="22" y="223" width="157" height="137" offset="0" />
+      <taggedRectangle x="30" y="121" width="28" height="26" offset="0" />
+      <taggedRectangle x="27" y="147" width="131" height="32" offset="0" />
+      <taggedRectangle x="32" y="191" width="128" height="21" offset="0" />
+      <taggedRectangle x="25" y="370" width="303" height="62" offset="0" />
+      <taggedRectangle x="25" y="432" width="283" height="132" offset="0" />
+      <taggedRectangle x="25" y="564" width="187" height="21" offset="0" />
+      <taggedRectangle x="23" y="592" width="305" height="21" offset="0" />
+      <taggedRectangle x="27" y="620" width="86" height="19" offset="0" />
+      <taggedRectangle x="23" y="641" width="142" height="18" offset="0" />
+      <taggedRectangle x="24" y="659" width="98" height="57" offset="0" />
+      <taggedRectangle x="24" y="716" width="138" height="19" offset="0" />
+      <taggedRectangle x="184" y="620" width="85" height="39" offset="0" />
+      <taggedRectangle x="183" y="659" width="138" height="38" offset="0" />
+      <taggedRectangle x="183" y="697" width="93" height="20" offset="0" />
+      <taggedRectangle x="183" y="717" width="143" height="20" offset="0" />
+      <taggedRectangle x="24" y="750" width="294" height="137" offset="0" />
+      <taggedRectangle x="24" y="887" width="190" height="19" offset="0" />
+      <taggedRectangle x="25" y="917" width="185" height="21" offset="0" />
+      <taggedRectangle x="25" y="938" width="136" height="20" offset="0" />
+      <taggedRectangle x="2" y="981" width="342" height="31" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV3y7VqU4AEQDLw.jpg</imageName>
+    <resolution x="600" y="467" />
+    <taggedRectangles>
+      <taggedRectangle x="122" y="168" width="119" height="68" offset="0" />
+      <taggedRectangle x="314" y="171" width="187" height="62" offset="0" />
+      <taggedRectangle x="259" y="198" width="27" height="32" offset="0" />
+      <taggedRectangle x="27" y="253" width="545" height="32" offset="0" />
+      <taggedRectangle x="222" y="397" width="162" height="37" offset="0" />
+      <taggedRectangle x="242" y="438" width="119" height="21" offset="0" />
+      <taggedRectangle x="19" y="359" width="55" height="22" offset="0" />
+      <taggedRectangle x="99" y="358" width="64" height="24" offset="0" />
+      <taggedRectangle x="175" y="359" width="75" height="22" offset="0" />
+      <taggedRectangle x="269" y="358" width="53" height="23" offset="0" />
+      <taggedRectangle x="335" y="361" width="90" height="22" offset="0" />
+      <taggedRectangle x="439" y="358" width="43" height="24" offset="0" />
+      <taggedRectangle x="515" y="359" width="47" height="23" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV46eHLXAAEJh-3.jpg</imageName>
+    <resolution x="600" y="985" />
+    <taggedRectangles>
+      <taggedRectangle x="12" y="89" width="509" height="48" offset="0" />
+      <taggedRectangle x="12" y="148" width="573" height="48" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4AibqUsAAN0zt.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="67" y="22" width="198" height="41" offset="0" />
+      <taggedRectangle x="38" y="404" width="389" height="58" offset="0" />
+      <taggedRectangle x="39" y="462" width="306" height="47" offset="0" />
+      <taggedRectangle x="39" y="513" width="299" height="29" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4CmQUUwAA0iOL.jpg</imageName>
+    <resolution x="560" y="315" />
+    <taggedRectangles>
+      <taggedRectangle x="22" y="102" width="119" height="20" offset="0" />
+      <taggedRectangle x="21" y="130" width="248" height="53" offset="0" />
+      <taggedRectangle x="19" y="198" width="521" height="56" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4GlYNUkAAb3_n.jpg</imageName>
+    <resolution x="491" y="403" />
+    <taggedRectangles>
+      <taggedRectangle x="22" y="3" width="439" height="39" offset="0" />
+      <taggedRectangle x="37" y="50" width="414" height="22" offset="0" />
+      <taggedRectangle x="15" y="110" width="107" height="287" offset="0" />
+      <taggedRectangle x="130" y="213" width="226" height="187" offset="0" />
+      <taggedRectangle x="361" y="80" width="117" height="312" offset="0" />
+      <taggedRectangle x="35" y="80" width="69" height="22" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4HEGgUAAAR40p.jpg</imageName>
+    <resolution x="600" y="373" />
+    <taggedRectangles>
+      <taggedRectangle x="109" y="97" width="415" height="47" offset="0" />
+      <taggedRectangle x="97" y="163" width="403" height="32" offset="0" />
+      <taggedRectangle x="96" y="210" width="405" height="34" offset="0" />
+      <taggedRectangle x="86" y="257" width="427" height="31" offset="0" />
+      <taggedRectangle x="345" y="304" width="174" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4Lrn2UwAAaTBx.png</imageName>
+    <resolution x="600" y="450" />
+    <taggedRectangles>
+      <taggedRectangle x="109" y="255" width="375" height="27" offset="0" />
+      <taggedRectangle x="71" y="292" width="458" height="21" offset="0" />
+      <taggedRectangle x="218" y="333" width="149" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4MqIbU8AIFY9t.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="69" y="11" width="451" height="35" offset="0" />
+      <taggedRectangle x="139" y="57" width="325" height="27" offset="0" />
+      <taggedRectangle x="58" y="84" width="480" height="27" offset="0" />
+      <taggedRectangle x="6" y="252" width="149" height="20" offset="0" />
+      <taggedRectangle x="26" y="272" width="103" height="21" offset="0" />
+      <taggedRectangle x="458" y="248" width="136" height="20" offset="0" />
+      <taggedRectangle x="473" y="268" width="99" height="21" offset="0" />
+      <taggedRectangle x="218" y="401" width="166" height="42" offset="0" />
+      <taggedRectangle x="462" y="395" width="131" height="41" offset="0" />
+      <taggedRectangle x="65" y="473" width="473" height="27" offset="0" />
+      <taggedRectangle x="130" y="500" width="335" height="26" offset="0" />
+      <taggedRectangle x="37" y="526" width="528" height="29" offset="0" />
+      <taggedRectangle x="124" y="555" width="358" height="25" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4RoZnU8AEICyT.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="243" y="38" width="132" height="34" offset="0" />
+      <taggedRectangle x="22" y="79" width="554" height="54" offset="0" />
+      <taggedRectangle x="111" y="133" width="379" height="28" offset="0" />
+      <taggedRectangle x="20" y="292" width="285" height="25" offset="0" />
+      <taggedRectangle x="305" y="292" width="140" height="25" offset="0" />
+      <taggedRectangle x="445" y="292" width="56" height="25" offset="0" />
+      <taggedRectangle x="21" y="326" width="116" height="22" offset="0" />
+      <taggedRectangle x="21" y="348" width="291" height="21" offset="0" />
+      <taggedRectangle x="21" y="369" width="197" height="20" offset="0" />
+      <taggedRectangle x="20" y="414" width="97" height="25" offset="0" />
+      <taggedRectangle x="20" y="449" width="449" height="52" offset="0" />
+      <taggedRectangle x="20" y="501" width="346" height="22" offset="0" />
+      <taggedRectangle x="20" y="532" width="278" height="31" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4SmlVU8AAvxfD.jpg</imageName>
+    <resolution x="563" y="960" />
+    <taggedRectangles>
+      <taggedRectangle x="86" y="41" width="83" height="29" offset="0" />
+      <taggedRectangle x="118" y="117" width="303" height="29" offset="0" />
+      <taggedRectangle x="121" y="177" width="216" height="31" offset="0" />
+      <taggedRectangle x="121" y="214" width="161" height="32" offset="0" />
+      <taggedRectangle x="16" y="274" width="420" height="35" offset="0" />
+      <taggedRectangle x="16" y="314" width="482" height="35" offset="0" />
+      <taggedRectangle x="16" y="356" width="478" height="37" offset="0" />
+      <taggedRectangle x="19" y="398" width="258" height="36" offset="0" />
+      <taggedRectangle x="16" y="876" width="199" height="27" offset="0" />
+      <taggedRectangle x="5" y="924" width="292" height="30" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4i3-YWcAEPrPf.jpg</imageName>
+    <resolution x="596" y="596" />
+    <taggedRectangles>
+      <taggedRectangle x="109" y="85" width="290" height="45" offset="0" />
+      <taggedRectangle x="109" y="130" width="396" height="51" offset="0" />
+      <taggedRectangle x="109" y="181" width="345" height="93" offset="0" />
+      <taggedRectangle x="109" y="274" width="410" height="47" offset="0" />
+      <taggedRectangle x="109" y="321" width="357" height="99" offset="0" />
+      <taggedRectangle x="109" y="420" width="187" height="50" offset="0" />
+      <taggedRectangle x="109" y="521" width="134" height="29" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV4zHIjWcAAb6QG.jpg</imageName>
+    <resolution x="480" y="360" />
+    <taggedRectangles>
+      <taggedRectangle x="13" y="279" width="220" height="31" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV5MA-hW4AAqQx_.png</imageName>
+    <resolution x="600" y="1029" />
+    <taggedRectangles>
+      <taggedRectangle x="53" y="14" width="340" height="31" offset="0" />
+      <taggedRectangle x="51" y="45" width="249" height="31" offset="0" />
+      <taggedRectangle x="154" y="85" width="160" height="35" offset="0" />
+      <taggedRectangle x="154" y="129" width="41" height="28" offset="0" />
+      <taggedRectangle x="153" y="166" width="243" height="29" offset="0" />
+      <taggedRectangle x="15" y="228" width="266" height="32" offset="0" />
+      <taggedRectangle x="13" y="300" width="568" height="37" offset="0" />
+      <taggedRectangle x="13" y="337" width="447" height="33" offset="0" />
+      <taggedRectangle x="13" y="410" width="543" height="35" offset="0" />
+      <taggedRectangle x="13" y="445" width="474" height="38" offset="0" />
+      <taggedRectangle x="13" y="483" width="269" height="34" offset="0" />
+      <taggedRectangle x="13" y="555" width="422" height="37" offset="0" />
+      <taggedRectangle x="14" y="627" width="116" height="37" offset="0" />
+      <taggedRectangle x="14" y="664" width="241" height="32" offset="0" />
+      <taggedRectangle x="15" y="763" width="122" height="26" offset="0" />
+      <taggedRectangle x="12" y="824" width="395" height="30" offset="0" />
+      <taggedRectangle x="12" y="854" width="329" height="29" offset="0" />
+      <taggedRectangle x="12" y="883" width="510" height="32" offset="0" />
+      <taggedRectangle x="12" y="915" width="337" height="32" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVa9gloWcAEwgZR.jpg</imageName>
+    <resolution x="600" y="607" />
+    <taggedRectangles>
+      <taggedRectangle x="37" y="23" width="521" height="58" offset="0" />
+      <taggedRectangle x="37" y="81" width="490" height="30" offset="0" />
+      <taggedRectangle x="37" y="111" width="507" height="31" offset="0" />
+      <taggedRectangle x="37" y="142" width="485" height="59" offset="0" />
+      <taggedRectangle x="37" y="201" width="509" height="59" offset="0" />
+      <taggedRectangle x="37" y="291" width="479" height="31" offset="0" />
+      <taggedRectangle x="37" y="322" width="417" height="30" offset="0" />
+      <taggedRectangle x="37" y="352" width="518" height="60" offset="0" />
+      <taggedRectangle x="37" y="412" width="287" height="30" offset="0" />
+      <taggedRectangle x="37" y="473" width="513" height="30" offset="0" />
+      <taggedRectangle x="37" y="503" width="462" height="30" offset="0" />
+      <taggedRectangle x="37" y="533" width="499" height="29" offset="0" />
+      <taggedRectangle x="37" y="562" width="458" height="29" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVaLRJLUAAEqBul.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="235" y="50" width="127" height="72" offset="0" />
+      <taggedRectangle x="124" y="146" width="366" height="57" offset="0" />
+      <taggedRectangle x="40" y="218" width="532" height="41" offset="0" />
+      <taggedRectangle x="15" y="275" width="574" height="55" offset="0" />
+      <taggedRectangle x="31" y="403" width="538" height="46" offset="0" />
+      <taggedRectangle x="12" y="465" width="572" height="26" offset="0" />
+      <taggedRectangle x="135" y="498" width="328" height="26" offset="0" />
+      <taggedRectangle x="112" y="543" width="157" height="24" offset="0" />
+      <taggedRectangle x="344" y="543" width="144" height="25" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVapj87WUAE81C5.png</imageName>
+    <resolution x="518" y="454" />
+    <taggedRectangles>
+      <taggedRectangle x="61" y="19" width="107" height="18" offset="0" />
+      <taggedRectangle x="61" y="37" width="90" height="16" offset="0" />
+      <taggedRectangle x="13" y="66" width="130" height="21" offset="0" />
+      <taggedRectangle x="13" y="87" width="488" height="20" offset="0" />
+      <taggedRectangle x="13" y="107" width="452" height="37" offset="0" />
+      <taggedRectangle x="13" y="144" width="52" height="20" offset="0" />
+      <taggedRectangle x="13" y="164" width="487" height="20" offset="0" />
+      <taggedRectangle x="13" y="184" width="444" height="18" offset="0" />
+      <taggedRectangle x="13" y="202" width="483" height="20" offset="0" />
+      <taggedRectangle x="13" y="222" width="176" height="19" offset="0" />
+      <taggedRectangle x="13" y="241" width="469" height="38" offset="0" />
+      <taggedRectangle x="13" y="279" width="215" height="20" offset="0" />
+      <taggedRectangle x="13" y="299" width="274" height="19" offset="0" />
+      <taggedRectangle x="13" y="318" width="415" height="20" offset="0" />
+      <taggedRectangle x="13" y="338" width="454" height="19" offset="0" />
+      <taggedRectangle x="13" y="357" width="111" height="20" offset="0" />
+      <taggedRectangle x="13" y="377" width="197" height="37" offset="0" />
+      <taggedRectangle x="11" y="419" width="345" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVaxPe7WUAEu2Cl.jpg</imageName>
+    <resolution x="600" y="702" />
+    <taggedRectangles>
+      <taggedRectangle x="28" y="6" width="300" height="35" offset="0" />
+      <taggedRectangle x="28" y="45" width="189" height="33" offset="0" />
+      <taggedRectangle x="26" y="140" width="278" height="31" offset="0" />
+      <taggedRectangle x="26" y="209" width="455" height="34" offset="0" />
+      <taggedRectangle x="26" y="245" width="542" height="33" offset="0" />
+      <taggedRectangle x="26" y="283" width="534" height="30" offset="0" />
+      <taggedRectangle x="26" y="317" width="437" height="31" offset="0" />
+      <taggedRectangle x="26" y="354" width="546" height="30" offset="0" />
+      <taggedRectangle x="26" y="387" width="522" height="31" offset="0" />
+      <taggedRectangle x="26" y="422" width="492" height="34" offset="0" />
+      <taggedRectangle x="26" y="461" width="540" height="31" offset="0" />
+      <taggedRectangle x="26" y="495" width="540" height="31" offset="0" />
+      <taggedRectangle x="26" y="531" width="461" height="29" offset="0" />
+      <taggedRectangle x="26" y="600" width="542" height="33" offset="0" />
+      <taggedRectangle x="26" y="638" width="522" height="32" offset="0" />
+      <taggedRectangle x="26" y="675" width="120" height="26" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVb81cmUwAEM2ai.jpg</imageName>
+    <resolution x="600" y="466" />
+    <taggedRectangles>
+      <taggedRectangle x="96" y="14" width="100" height="28" offset="0" />
+      <taggedRectangle x="96" y="46" width="57" height="22" offset="0" />
+      <taggedRectangle x="16" y="97" width="558" height="29" offset="0" />
+      <taggedRectangle x="16" y="128" width="523" height="28" offset="0" />
+      <taggedRectangle x="16" y="158" width="557" height="28" offset="0" />
+      <taggedRectangle x="16" y="187" width="523" height="30" offset="0" />
+      <taggedRectangle x="16" y="218" width="562" height="28" offset="0" />
+      <taggedRectangle x="16" y="249" width="376" height="29" offset="0" />
+      <taggedRectangle x="16" y="307" width="443" height="30" offset="0" />
+      <taggedRectangle x="16" y="366" width="494" height="30" offset="0" />
+      <taggedRectangle x="101" y="421" width="41" height="26" offset="0" />
+      <taggedRectangle x="280" y="422" width="80" height="26" offset="0" />
+      <taggedRectangle x="494" y="421" width="54" height="26" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVbBwi6UkAAXJcX.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="109" y="20" width="384" height="34" offset="0" />
+      <taggedRectangle x="15" y="54" width="582" height="34" offset="0" />
+      <taggedRectangle x="265" y="98" width="52" height="25" offset="0" />
+      <taggedRectangle x="23" y="122" width="550" height="51" offset="0" />
+      <taggedRectangle x="23" y="173" width="72" height="26" offset="0" />
+      <taggedRectangle x="23" y="210" width="486" height="51" offset="0" />
+      <taggedRectangle x="23" y="261" width="527" height="27" offset="0" />
+      <taggedRectangle x="246" y="292" width="92" height="23" offset="0" />
+      <taggedRectangle x="22" y="323" width="522" height="25" offset="0" />
+      <taggedRectangle x="22" y="348" width="569" height="26" offset="0" />
+      <taggedRectangle x="22" y="374" width="526" height="26" offset="0" />
+      <taggedRectangle x="23" y="400" width="563" height="26" offset="0" />
+      <taggedRectangle x="23" y="426" width="508" height="28" offset="0" />
+      <taggedRectangle x="23" y="454" width="559" height="78" offset="0" />
+      <taggedRectangle x="23" y="532" width="214" height="25" offset="0" />
+      <taggedRectangle x="181" y="569" width="410" height="23" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVbQsapUAAAMxpS.jpg</imageName>
+    <resolution x="600" y="590" />
+    <taggedRectangles>
+      <taggedRectangle x="112" y="20" width="233" height="31" offset="0" />
+      <taggedRectangle x="112" y="58" width="88" height="25" offset="0" />
+      <taggedRectangle x="22" y="106" width="80" height="32" offset="0" />
+      <taggedRectangle x="22" y="174" width="256" height="33" offset="0" />
+      <taggedRectangle x="22" y="240" width="286" height="34" offset="0" />
+      <taggedRectangle x="22" y="311" width="470" height="34" offset="0" />
+      <taggedRectangle x="22" y="345" width="495" height="34" offset="0" />
+      <taggedRectangle x="22" y="379" width="454" height="32" offset="0" />
+      <taggedRectangle x="22" y="447" width="554" height="33" offset="0" />
+      <taggedRectangle x="22" y="480" width="490" height="33" offset="0" />
+      <taggedRectangle x="22" y="549" width="332" height="30" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVbQyrHUEAIpYq-.jpg</imageName>
+    <resolution x="600" y="1067" />
+    <taggedRectangles>
+      <taggedRectangle x="413" y="7" width="51" height="31" offset="0" />
+      <taggedRectangle x="494" y="9" width="98" height="27" offset="0" />
+      <taggedRectangle x="90" y="66" width="365" height="37" offset="0" />
+      <taggedRectangle x="97" y="167" width="392" height="31" offset="0" />
+      <taggedRectangle x="97" y="198" width="83" height="28" offset="0" />
+      <taggedRectangle x="97" y="226" width="147" height="23" offset="0" />
+      <taggedRectangle x="17" y="262" width="551" height="60" offset="0" />
+      <taggedRectangle x="17" y="322" width="100" height="31" offset="0" />
+      <taggedRectangle x="17" y="353" width="522" height="61" offset="0" />
+      <taggedRectangle x="17" y="414" width="477" height="30" offset="0" />
+      <taggedRectangle x="17" y="444" width="535" height="29" offset="0" />
+      <taggedRectangle x="17" y="473" width="359" height="30" offset="0" />
+      <taggedRectangle x="17" y="535" width="546" height="30" offset="0" />
+      <taggedRectangle x="17" y="565" width="522" height="30" offset="0" />
+      <taggedRectangle x="17" y="595" width="487" height="31" offset="0" />
+      <taggedRectangle x="17" y="626" width="563" height="87" offset="0" />
+      <taggedRectangle x="17" y="713" width="463" height="31" offset="0" />
+      <taggedRectangle x="17" y="744" width="414" height="29" offset="0" />
+      <taggedRectangle x="17" y="773" width="263" height="32" offset="0" />
+      <taggedRectangle x="17" y="805" width="206" height="29" offset="0" />
+      <taggedRectangle x="91" y="1015" width="211" height="28" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVbawMKXAAA_T-O.jpg</imageName>
+    <resolution x="568" y="1024" />
+    <taggedRectangles>
+      <taggedRectangle x="116" y="46" width="355" height="54" offset="0" />
+      <taggedRectangle x="33" y="100" width="523" height="50" offset="0" />
+      <taggedRectangle x="50" y="207" width="499" height="50" offset="0" />
+      <taggedRectangle x="50" y="257" width="120" height="25" offset="0" />
+      <taggedRectangle x="50" y="306" width="499" height="50" offset="0" />
+      <taggedRectangle x="50" y="356" width="355" height="25" offset="0" />
+      <taggedRectangle x="50" y="405" width="499" height="50" offset="0" />
+      <taggedRectangle x="50" y="455" width="345" height="25" offset="0" />
+      <taggedRectangle x="50" y="504" width="499" height="50" offset="0" />
+      <taggedRectangle x="50" y="554" width="330" height="25" offset="0" />
+      <taggedRectangle x="50" y="603" width="499" height="50" offset="0" />
+      <taggedRectangle x="50" y="653" width="370" height="25" offset="0" />
+      <taggedRectangle x="50" y="702" width="499" height="50" offset="0" />
+      <taggedRectangle x="50" y="752" width="310" height="25" offset="0" />
+      <taggedRectangle x="50" y="799" width="502" height="79" offset="0" />
+      <taggedRectangle x="50" y="900" width="499" height="50" offset="0" />
+      <taggedRectangle x="50" y="950" width="240" height="25" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVbeEnjWIAA0YwN.png</imageName>
+    <resolution x="600" y="519" />
+    <taggedRectangles>
+      <taggedRectangle x="98" y="21" width="224" height="29" offset="0" />
+      <taggedRectangle x="99" y="50" width="77" height="24" offset="0" />
+      <taggedRectangle x="15" y="105" width="534" height="150" offset="0" />
+      <taggedRectangle x="15" y="255" width="558" height="91" offset="0" />
+      <taggedRectangle x="15" y="346" width="537" height="60" offset="0" />
+      <taggedRectangle x="18" y="418" width="289" height="23" offset="0" />
+      <taggedRectangle x="98" y="476" width="44" height="25" offset="0" />
+      <taggedRectangle x="275" y="477" width="98" height="25" offset="0" />
+      <taggedRectangle x="494" y="477" width="58" height="25" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVbiMXEWcAAcYZa.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="116" y="36" width="368" height="60" offset="0" />
+      <taggedRectangle x="90" y="178" width="447" height="39" offset="0" />
+      <taggedRectangle x="99" y="231" width="435" height="39" offset="0" />
+      <taggedRectangle x="121" y="277" width="389" height="38" offset="0" />
+      <taggedRectangle x="56" y="330" width="513" height="35" offset="0" />
+      <taggedRectangle x="158" y="380" width="314" height="38" offset="0" />
+      <taggedRectangle x="412" y="545" width="140" height="20" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVblFqOU8AEC9xs.png</imageName>
+    <resolution x="600" y="375" />
+    <taggedRectangles>
+      <taggedRectangle x="13" y="7" width="523" height="31" offset="0" />
+      <taggedRectangle x="13" y="48" width="560" height="31" offset="0" />
+      <taggedRectangle x="13" y="89" width="475" height="31" offset="0" />
+      <taggedRectangle x="13" y="129" width="553" height="31" offset="0" />
+      <taggedRectangle x="13" y="168" width="574" height="31" offset="0" />
+      <taggedRectangle x="13" y="207" width="513" height="31" offset="0" />
+      <taggedRectangle x="13" y="249" width="395" height="31" offset="0" />
+      <taggedRectangle x="13" y="288" width="526" height="31" offset="0" />
+      <taggedRectangle x="13" y="328" width="509" height="31" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVbpp1zUsAAy_FO.png</imageName>
+    <resolution x="600" y="894" />
+    <taggedRectangles>
+      <taggedRectangle x="15" y="11" width="413" height="99" offset="0" />
+      <taggedRectangle x="15" y="110" width="357" height="33" offset="0" />
+      <taggedRectangle x="15" y="178" width="401" height="33" offset="0" />
+      <taggedRectangle x="15" y="211" width="358" height="34" offset="0" />
+      <taggedRectangle x="15" y="245" width="434" height="66" offset="0" />
+      <taggedRectangle x="15" y="347" width="367" height="33" offset="0" />
+      <taggedRectangle x="15" y="380" width="425" height="34" offset="0" />
+      <taggedRectangle x="15" y="414" width="360" height="63" offset="0" />
+      <taggedRectangle x="15" y="514" width="414" height="135" offset="0" />
+      <taggedRectangle x="15" y="683" width="382" height="34" offset="0" />
+      <taggedRectangle x="15" y="717" width="456" height="64" offset="0" />
+      <taggedRectangle x="15" y="781" width="317" height="32" offset="0" />
+      <taggedRectangle x="15" y="853" width="214" height="29" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVbw3XoXIAI2KXu.jpg</imageName>
+    <resolution x="600" y="450" />
+    <taggedRectangles>
+      <taggedRectangle x="135" y="1" width="321" height="54" offset="0" />
+      <taggedRectangle x="148" y="55" width="298" height="28" offset="0" />
+      <taggedRectangle x="231" y="83" width="138" height="27" offset="0" />
+      <taggedRectangle x="263" y="110" width="66" height="25" offset="0" />
+      <taggedRectangle x="111" y="135" width="379" height="27" offset="0" />
+      <taggedRectangle x="248" y="162" width="104" height="25" offset="0" />
+      <taggedRectangle x="175" y="187" width="249" height="27" offset="0" />
+      <taggedRectangle x="224" y="214" width="152" height="27" offset="0" />
+      <taggedRectangle x="254" y="241" width="91" height="25" offset="0" />
+      <taggedRectangle x="134" y="265" width="333" height="27" offset="0" />
+      <taggedRectangle x="207" y="291" width="185" height="55" offset="0" />
+      <taggedRectangle x="127" y="369" width="349" height="56" offset="0" />
+      <taggedRectangle x="1" y="428" width="199" height="23" offset="0" />
+      <taggedRectangle x="434" y="428" width="167" height="23" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVc8OnjUwAExDdl.jpg</imageName>
+    <resolution x="480" y="854" />
+    <taggedRectangles>
+      <taggedRectangle x="425" y="7" width="45" height="25" offset="0" />
+      <taggedRectangle x="1" y="107" width="480" height="160" offset="0" />
+      <taggedRectangle x="1" y="267" width="340" height="32" offset="0" />
+      <taggedRectangle x="1" y="335" width="414" height="34" offset="0" />
+      <taggedRectangle x="1" y="405" width="396" height="62" offset="0" />
+      <taggedRectangle x="1" y="467" width="415" height="32" offset="0" />
+      <taggedRectangle x="1" y="499" width="348" height="31" offset="0" />
+      <taggedRectangle x="1" y="570" width="160" height="60" offset="0" />
+      <taggedRectangle x="74" y="658" width="197" height="31" offset="0" />
+      <taggedRectangle x="4" y="717" width="115" height="62" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVc8VLQU8AArmtV.png</imageName>
+    <resolution x="600" y="859" />
+    <taggedRectangles>
+      <taggedRectangle x="11" y="24" width="574" height="65" offset="0" />
+      <taggedRectangle x="32" y="89" width="535" height="67" offset="0" />
+      <taggedRectangle x="15" y="279" width="84" height="25" offset="0" />
+      <taggedRectangle x="28" y="305" width="59" height="17" offset="0" />
+      <taggedRectangle x="18" y="326" width="76" height="47" offset="0" />
+      <taggedRectangle x="10" y="601" width="90" height="247" offset="0" />
+      <taggedRectangle x="104" y="156" width="98" height="697" offset="0" />
+      <taggedRectangle x="206" y="584" width="381" height="14" offset="0" />
+      <taggedRectangle x="205" y="604" width="286" height="249" offset="0" />
+      <taggedRectangle x="496" y="606" width="97" height="218" offset="0" />
+      <taggedRectangle x="533" y="826" width="53" height="27" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVcHVyfVAAAXmxD.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="26" y="81" width="94" height="42" offset="0" />
+      <taggedRectangle x="300" y="70" width="238" height="74" offset="0" />
+      <taggedRectangle x="71" y="215" width="462" height="81" offset="0" />
+      <taggedRectangle x="93" y="296" width="415" height="46" offset="0" />
+      <taggedRectangle x="58" y="342" width="487" height="40" offset="0" />
+      <taggedRectangle x="107" y="382" width="391" height="41" offset="0" />
+      <taggedRectangle x="58" y="423" width="486" height="83" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVcK_dQUwAA5Nb5.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="188" y="51" width="227" height="40" offset="0" />
+      <taggedRectangle x="214" y="210" width="174" height="59" offset="0" />
+      <taggedRectangle x="235" y="271" width="132" height="59" offset="0" />
+      <taggedRectangle x="148" y="331" width="302" height="61" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVcNotIVEAAn0K0.jpg</imageName>
+    <resolution x="600" y="331" />
+    <taggedRectangles>
+      <taggedRectangle x="1" y="3" width="362" height="32" offset="0" />
+      <taggedRectangle x="5" y="40" width="178" height="21" offset="0" />
+      <taggedRectangle x="5" y="60" width="150" height="20" offset="0" />
+      <taggedRectangle x="5" y="79" width="182" height="57" offset="0" />
+      <taggedRectangle x="5" y="135" width="221" height="21" offset="0" />
+      <taggedRectangle x="5" y="155" width="171" height="58" offset="0" />
+      <taggedRectangle x="5" y="212" width="207" height="38" offset="0" />
+      <taggedRectangle x="5" y="249" width="153" height="38" offset="0" />
+      <taggedRectangle x="5" y="286" width="168" height="21" offset="0" />
+      <taggedRectangle x="5" y="306" width="193" height="20" offset="0" />
+      <taggedRectangle x="269" y="39" width="93" height="287" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVcavKQVEAEym80.jpg</imageName>
+    <resolution x="600" y="751" />
+    <taggedRectangles>
+      <taggedRectangle x="6" y="19" width="449" height="39" offset="0" />
+      <taggedRectangle x="6" y="60" width="334" height="39" offset="0" />
+      <taggedRectangle x="6" y="102" width="368" height="37" offset="0" />
+      <taggedRectangle x="6" y="146" width="112" height="32" offset="0" />
+      <taggedRectangle x="27" y="205" width="508" height="36" offset="0" />
+      <taggedRectangle x="27" y="249" width="512" height="37" offset="0" />
+      <taggedRectangle x="27" y="289" width="338" height="35" offset="0" />
+      <taggedRectangle x="13" y="635" width="236" height="63" offset="0" />
+      <taggedRectangle x="296" y="635" width="298" height="63" offset="0" />
+      <taggedRectangle x="73" y="722" width="103" height="25" offset="0" />
+      <taggedRectangle x="369" y="720" width="223" height="25" offset="0" />
+      <taggedRectangle x="490" y="66" width="50" height="37" offset="0" />
+      <taggedRectangle x="465" y="103" width="81" height="36" offset="0" />
+      <taggedRectangle x="439" y="139" width="138" height="26" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVceJ2kU8AAp28x.jpg</imageName>
+    <resolution x="600" y="542" />
+    <taggedRectangles>
+      <taggedRectangle x="35" y="21" width="62" height="41" offset="0" />
+      <taggedRectangle x="20" y="76" width="101" height="14" offset="0" />
+      <taggedRectangle x="129" y="17" width="326" height="41" offset="0" />
+      <taggedRectangle x="157" y="57" width="230" height="27" offset="0" />
+      <taggedRectangle x="157" y="82" width="354" height="28" offset="0" />
+      <taggedRectangle x="158" y="112" width="394" height="24" offset="0" />
+      <taggedRectangle x="156" y="136" width="82" height="28" offset="0" />
+      <taggedRectangle x="17" y="187" width="149" height="33" offset="0" />
+      <taggedRectangle x="197" y="186" width="125" height="34" offset="0" />
+      <taggedRectangle x="353" y="185" width="92" height="33" offset="0" />
+      <taggedRectangle x="474" y="186" width="72" height="32" offset="0" />
+      <taggedRectangle x="7" y="234" width="474" height="33" offset="0" />
+      <taggedRectangle x="18" y="279" width="221" height="33" offset="0" />
+      <taggedRectangle x="18" y="316" width="545" height="108" offset="0" />
+      <taggedRectangle x="18" y="426" width="278" height="25" offset="0" />
+      <taggedRectangle x="21" y="459" width="168" height="25" offset="0" />
+      <taggedRectangle x="43" y="486" width="537" height="28" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVcp0XAU4AA7kOO.jpg</imageName>
+    <resolution x="600" y="561" />
+    <taggedRectangles>
+      <taggedRectangle x="68" y="13" width="82" height="23" offset="0" />
+      <taggedRectangle x="6" y="75" width="576" height="185" offset="0" />
+      <taggedRectangle x="6" y="260" width="213" height="23" offset="0" />
+      <taggedRectangle x="7" y="287" width="72" height="22" offset="0" />
+      <taggedRectangle x="114" y="308" width="458" height="38" offset="0" />
+      <taggedRectangle x="146" y="346" width="34" height="23" offset="0" />
+      <taggedRectangle x="441" y="346" width="45" height="24" offset="0" />
+      <taggedRectangle x="5" y="390" width="308" height="26" offset="0" />
+      <taggedRectangle x="65" y="437" width="123" height="22" offset="0" />
+      <taggedRectangle x="65" y="459" width="457" height="68" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVcwfo7U8AAG_Lv.jpg</imageName>
+    <resolution x="600" y="338" />
+    <taggedRectangles>
+      <taggedRectangle x="51" y="248" width="482" height="30" offset="0" />
+      <taggedRectangle x="92" y="281" width="406" height="28" offset="0" />
+      <taggedRectangle x="233" y="322" width="136" height="17" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVd3YynUYAAHhSF.jpg</imageName>
+    <resolution x="540" y="540" />
+    <taggedRectangles>
+      <taggedRectangle x="43" y="42" width="444" height="32" offset="0" />
+      <taggedRectangle x="80" y="171" width="369" height="30" offset="0" />
+      <taggedRectangle x="42" y="211" width="444" height="27" offset="0" />
+      <taggedRectangle x="126" y="249" width="275" height="30" offset="0" />
+      <taggedRectangle x="53" y="313" width="423" height="38" offset="0" />
+      <taggedRectangle x="124" y="492" width="296" height="39" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVd3aKXWUAAQGVO.jpg</imageName>
+    <resolution x="576" y="1024" />
+    <taggedRectangles>
+      <taggedRectangle x="24" y="55" width="154" height="29" offset="0" />
+      <taggedRectangle x="24" y="84" width="98" height="21" offset="0" />
+      <taggedRectangle x="408" y="5" width="46" height="32" offset="0" />
+      <taggedRectangle x="487" y="6" width="83" height="31" offset="0" />
+      <taggedRectangle x="227" y="188" width="123" height="27" offset="0" />
+      <taggedRectangle x="255" y="318" width="67" height="24" offset="0" />
+      <taggedRectangle x="103" y="366" width="228" height="29" offset="0" />
+      <taggedRectangle x="103" y="395" width="315" height="27" offset="0" />
+      <taggedRectangle x="103" y="448" width="377" height="137" offset="0" />
+      <taggedRectangle x="103" y="585" width="216" height="27" offset="0" />
+      <taggedRectangle x="103" y="639" width="157" height="27" offset="0" />
+      <taggedRectangle x="103" y="696" width="152" height="25" offset="0" />
+      <taggedRectangle x="417" y="759" width="107" height="27" offset="0" />
+      <taggedRectangle x="404" y="820" width="119" height="27" offset="0" />
+      <taggedRectangle x="16" y="971" width="177" height="32" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVd6lxwU4AAMhs4.jpg</imageName>
+    <resolution x="600" y="476" />
+    <taggedRectangles>
+      <taggedRectangle x="59" y="11" width="495" height="30" offset="0" />
+      <taggedRectangle x="27" y="45" width="557" height="30" offset="0" />
+      <taggedRectangle x="437" y="157" width="144" height="20" offset="0" />
+      <taggedRectangle x="41" y="136" width="30" height="19" offset="0" />
+      <taggedRectangle x="15" y="428" width="573" height="30" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVdBA-pUkAAkwsY.jpg</imageName>
+    <resolution x="600" y="598" />
+    <taggedRectangles>
+      <taggedRectangle x="31" y="15" width="134" height="40" offset="0" />
+      <taggedRectangle x="165" y="15" width="350" height="40" offset="0" />
+      <taggedRectangle x="31" y="59" width="140" height="40" offset="0" />
+      <taggedRectangle x="171" y="59" width="350" height="40" offset="0" />
+      <taggedRectangle x="33" y="104" width="93" height="33" offset="0" />
+      <taggedRectangle x="52" y="348" width="484" height="49" offset="0" />
+      <taggedRectangle x="222" y="398" width="136" height="40" offset="0" />
+      <taggedRectangle x="267" y="544" width="47" height="45" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVdBI7BUYAUdlFN.png</imageName>
+    <resolution x="600" y="396" />
+    <taggedRectangles>
+      <taggedRectangle x="494" y="38" width="98" height="38" offset="0" />
+      <taggedRectangle x="98" y="84" width="435" height="38" offset="0" />
+      <taggedRectangle x="224" y="131" width="162" height="36" offset="0" />
+      <taggedRectangle x="122" y="181" width="161" height="43" offset="0" />
+      <taggedRectangle x="285" y="191" width="206" height="35" offset="0" />
+      <taggedRectangle x="133" y="238" width="346" height="36" offset="0" />
+      <taggedRectangle x="213" y="289" width="156" height="41" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVdBJ1yXAAAEUIp.jpg</imageName>
+    <resolution x="600" y="340" />
+    <taggedRectangles>
+      <taggedRectangle x="17" y="16" width="542" height="33" offset="0" />
+      <taggedRectangle x="17" y="53" width="541" height="34" offset="0" />
+      <taggedRectangle x="298" y="98" width="99" height="20" offset="0" />
+      <taggedRectangle x="296" y="124" width="141" height="190" offset="0" />
+      <taggedRectangle x="439" y="99" width="137" height="216" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVdfR3WUkAAPfaw.jpg</imageName>
+    <resolution x="600" y="450" />
+    <taggedRectangles>
+      <taggedRectangle x="504" y="31" width="62" height="22" offset="0" />
+      <taggedRectangle x="330" y="35" width="81" height="21" offset="0" />
+      <taggedRectangle x="35" y="86" width="378" height="54" offset="0" />
+      <taggedRectangle x="35" y="140" width="211" height="27" offset="0" />
+      <taggedRectangle x="35" y="167" width="171" height="24" offset="0" />
+      <taggedRectangle x="35" y="201" width="253" height="25" offset="0" />
+      <taggedRectangle x="35" y="226" width="299" height="25" offset="0" />
+      <taggedRectangle x="35" y="251" width="335" height="25" offset="0" />
+      <taggedRectangle x="35" y="406" width="69" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVdzJSuU4AA_ZNg.jpg</imageName>
+    <resolution x="599" y="759" />
+    <taggedRectangles>
+      <taggedRectangle x="18" y="97" width="61" height="46" offset="0" />
+      <taggedRectangle x="89" y="42" width="480" height="27" offset="0" />
+      <taggedRectangle x="305" y="135" width="116" height="20" offset="0" />
+      <taggedRectangle x="202" y="161" width="82" height="26" offset="0" />
+      <taggedRectangle x="305" y="188" width="117" height="23" offset="0" />
+      <taggedRectangle x="105" y="579" width="385" height="32" offset="0" />
+      <taggedRectangle x="35" y="628" width="148" height="21" offset="0" />
+      <taggedRectangle x="241" y="629" width="110" height="22" offset="0" />
+      <taggedRectangle x="406" y="629" width="142" height="21" offset="0" />
+      <taggedRectangle x="174" y="673" width="250" height="23" offset="0" />
+      <taggedRectangle x="91" y="718" width="105" height="20" offset="0" />
+      <taggedRectangle x="232" y="716" width="165" height="24" offset="0" />
+      <taggedRectangle x="454" y="718" width="81" height="19" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVeEfpkWcAAX-XJ.jpg</imageName>
+    <resolution x="540" y="960" />
+    <taggedRectangles>
+      <taggedRectangle x="485" y="6" width="48" height="27" offset="0" />
+      <taggedRectangle x="22" y="132" width="465" height="49" offset="0" />
+      <taggedRectangle x="22" y="181" width="160" height="26" offset="0" />
+      <taggedRectangle x="22" y="228" width="493" height="25" offset="0" />
+      <taggedRectangle x="22" y="253" width="440" height="23" offset="0" />
+      <taggedRectangle x="22" y="276" width="496" height="26" offset="0" />
+      <taggedRectangle x="22" y="302" width="56" height="22" offset="0" />
+      <taggedRectangle x="22" y="350" width="458" height="24" offset="0" />
+      <taggedRectangle x="22" y="374" width="401" height="24" offset="0" />
+      <taggedRectangle x="22" y="398" width="284" height="23" offset="0" />
+      <taggedRectangle x="21" y="448" width="299" height="29" offset="0" />
+      <taggedRectangle x="21" y="475" width="469" height="29" offset="0" />
+      <taggedRectangle x="21" y="504" width="495" height="27" offset="0" />
+      <taggedRectangle x="21" y="530" width="193" height="26" offset="0" />
+      <taggedRectangle x="21" y="578" width="499" height="32" offset="0" />
+      <taggedRectangle x="21" y="610" width="435" height="30" offset="0" />
+      <taggedRectangle x="21" y="640" width="218" height="30" offset="0" />
+      <taggedRectangle x="21" y="691" width="220" height="27" offset="0" />
+      <taggedRectangle x="21" y="741" width="46" height="28" offset="0" />
+      <taggedRectangle x="22" y="795" width="412" height="25" offset="0" />
+      <taggedRectangle x="22" y="833" width="484" height="25" offset="0" />
+      <taggedRectangle x="22" y="867" width="227" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVeFhCjVAAAS9kQ.png</imageName>
+    <resolution x="600" y="645" />
+    <taggedRectangles>
+      <taggedRectangle x="100" y="13" width="219" height="28" offset="0" />
+      <taggedRectangle x="100" y="41" width="150" height="30" offset="0" />
+      <taggedRectangle x="18" y="96" width="570" height="33" offset="0" />
+      <taggedRectangle x="18" y="129" width="530" height="33" offset="0" />
+      <taggedRectangle x="18" y="162" width="562" height="33" offset="0" />
+      <taggedRectangle x="18" y="195" width="526" height="33" offset="0" />
+      <taggedRectangle x="18" y="228" width="520" height="33" offset="0" />
+      <taggedRectangle x="18" y="261" width="533" height="66" offset="0" />
+      <taggedRectangle x="18" y="327" width="565" height="33" offset="0" />
+      <taggedRectangle x="18" y="360" width="497" height="35" offset="0" />
+      <taggedRectangle x="18" y="395" width="576" height="168" offset="0" />
+      <taggedRectangle x="18" y="563" width="501" height="35" offset="0" />
+      <taggedRectangle x="18" y="598" width="431" height="33" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVeHRK0UAAAhh3A.jpg</imageName>
+    <resolution x="552" y="621" />
+    <taggedRectangles>
+      <taggedRectangle x="18" y="38" width="460" height="29" offset="0" />
+      <taggedRectangle x="13" y="131" width="77" height="31" offset="0" />
+      <taggedRectangle x="142" y="131" width="86" height="33" offset="0" />
+      <taggedRectangle x="15" y="182" width="80" height="31" offset="0" />
+      <taggedRectangle x="13" y="227" width="134" height="34" offset="0" />
+      <taggedRectangle x="183" y="228" width="263" height="31" offset="0" />
+      <taggedRectangle x="16" y="275" width="61" height="32" offset="0" />
+      <taggedRectangle x="123" y="275" width="91" height="32" offset="0" />
+      <taggedRectangle x="16" y="324" width="114" height="32" offset="0" />
+      <taggedRectangle x="142" y="181" width="83" height="30" offset="0" />
+      <taggedRectangle x="170" y="324" width="85" height="31" offset="0" />
+      <taggedRectangle x="14" y="372" width="75" height="33" offset="0" />
+      <taggedRectangle x="149" y="372" width="294" height="36" offset="0" />
+      <taggedRectangle x="16" y="420" width="206" height="32" offset="0" />
+      <taggedRectangle x="266" y="420" width="94" height="31" offset="0" />
+      <taggedRectangle x="16" y="515" width="190" height="35" offset="0" />
+      <taggedRectangle x="14" y="565" width="248" height="32" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVeK6RwUEAAQunC.jpg</imageName>
+    <resolution x="480" y="854" />
+    <taggedRectangles>
+      <taggedRectangle x="80" y="8" width="39" height="21" offset="0" />
+      <taggedRectangle x="297" y="6" width="47" height="27" offset="0" />
+      <taggedRectangle x="373" y="8" width="100" height="26" offset="0" />
+      <taggedRectangle x="82" y="60" width="75" height="29" offset="0" />
+      <taggedRectangle x="35" y="127" width="405" height="26" offset="0" />
+      <taggedRectangle x="35" y="153" width="255" height="50" offset="0" />
+      <taggedRectangle x="35" y="203" width="190" height="27" offset="0" />
+      <taggedRectangle x="35" y="230" width="221" height="26" offset="0" />
+      <taggedRectangle x="35" y="256" width="257" height="27" offset="0" />
+      <taggedRectangle x="35" y="283" width="215" height="76" offset="0" />
+      <taggedRectangle x="35" y="359" width="246" height="80" offset="0" />
+      <taggedRectangle x="35" y="439" width="217" height="26" offset="0" />
+      <taggedRectangle x="35" y="465" width="409" height="24" offset="0" />
+      <taggedRectangle x="35" y="489" width="54" height="26" offset="0" />
+      <taggedRectangle x="35" y="515" width="153" height="27" offset="0" />
+      <taggedRectangle x="35" y="542" width="391" height="54" offset="0" />
+      <taggedRectangle x="35" y="596" width="89" height="26" offset="0" />
+      <taggedRectangle x="35" y="622" width="379" height="25" offset="0" />
+      <taggedRectangle x="35" y="647" width="135" height="23" offset="0" />
+      <taggedRectangle x="35" y="670" width="365" height="28" offset="0" />
+      <taggedRectangle x="37" y="698" width="244" height="26" offset="0" />
+      <taggedRectangle x="78" y="766" width="40" height="17" offset="0" />
+      <taggedRectangle x="215" y="767" width="84" height="16" offset="0" />
+      <taggedRectangle x="391" y="769" width="52" height="18" offset="0" />
+      <taggedRectangle x="83" y="805" width="193" height="26" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVehPqwUAAAReTN.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="136" y="46" width="429" height="37" offset="0" />
+      <taggedRectangle x="318" y="85" width="245" height="27" offset="0" />
+      <taggedRectangle x="76" y="209" width="457" height="67" offset="0" />
+      <taggedRectangle x="116" y="276" width="380" height="36" offset="0" />
+      <taggedRectangle x="76" y="312" width="460" height="100" offset="0" />
+      <taggedRectangle x="450" y="553" width="126" height="22" offset="0" />
+      <taggedRectangle x="65" y="539" width="136" height="15" offset="0" />
+      <taggedRectangle x="28" y="554" width="173" height="13" offset="0" />
+      <taggedRectangle x="115" y="567" width="86" height="13" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVeiK00UEAEVcN7.png</imageName>
+    <resolution x="600" y="566" />
+    <taggedRectangles>
+      <taggedRectangle x="98" y="115" width="38" height="20" offset="0" />
+      <taggedRectangle x="149" y="101" width="183" height="22" offset="0" />
+      <taggedRectangle x="149" y="123" width="49" height="21" offset="0" />
+      <taggedRectangle x="95" y="157" width="86" height="17" offset="0" />
+      <taggedRectangle x="183" y="157" width="404" height="16" offset="0" />
+      <taggedRectangle x="96" y="177" width="53" height="17" offset="0" />
+      <taggedRectangle x="96" y="205" width="464" height="20" offset="0" />
+      <taggedRectangle x="96" y="225" width="504" height="60" offset="0" />
+      <taggedRectangle x="96" y="285" width="274" height="22" offset="0" />
+      <taggedRectangle x="96" y="452" width="479" height="20" offset="0" />
+      <taggedRectangle x="96" y="493" width="303" height="20" offset="0" />
+      <taggedRectangle x="96" y="391" width="356" height="18" offset="0" />
+      <taggedRectangle x="96" y="307" width="495" height="84" offset="0" />
+      <taggedRectangle x="96" y="409" width="484" height="24" offset="0" />
+      <taggedRectangle x="96" y="432" width="52" height="20" offset="0" />
+      <taggedRectangle x="96" y="472" width="117" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVejnWEVEAAc8Lg.jpg</imageName>
+    <resolution x="600" y="960" />
+    <taggedRectangles>
+      <taggedRectangle x="12" y="34" width="39" height="17" offset="0" />
+      <taggedRectangle x="12" y="51" width="282" height="20" offset="0" />
+      <taggedRectangle x="12" y="71" width="154" height="18" offset="0" />
+      <taggedRectangle x="12" y="89" width="131" height="19" offset="0" />
+      <taggedRectangle x="12" y="108" width="94" height="19" offset="0" />
+      <taggedRectangle x="12" y="146" width="22" height="17" offset="0" />
+      <taggedRectangle x="12" y="163" width="78" height="21" offset="0" />
+      <taggedRectangle x="12" y="184" width="188" height="19" offset="0" />
+      <taggedRectangle x="12" y="203" width="90" height="37" offset="0" />
+      <taggedRectangle x="12" y="240" width="112" height="18" offset="0" />
+      <taggedRectangle x="13" y="291" width="82" height="18" offset="0" />
+      <taggedRectangle x="167" y="322" width="32" height="19" offset="0" />
+      <taggedRectangle x="205" y="324" width="341" height="36" offset="0" />
+      <taggedRectangle x="205" y="360" width="144" height="18" offset="0" />
+      <taggedRectangle x="58" y="413" width="532" height="20" offset="0" />
+      <taggedRectangle x="12" y="433" width="578" height="37" offset="0" />
+      <taggedRectangle x="12" y="470" width="144" height="18" offset="0" />
+      <taggedRectangle x="56" y="501" width="534" height="20" offset="0" />
+      <taggedRectangle x="12" y="521" width="578" height="129" offset="0" />
+      <taggedRectangle x="12" y="650" width="116" height="20" offset="0" />
+      <taggedRectangle x="12" y="682" width="330" height="18" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVf-Jn7UkAAXP1S.jpg</imageName>
+    <resolution x="600" y="400" />
+    <taggedRectangles>
+      <taggedRectangle x="337" y="28" width="178" height="36" offset="0" />
+      <taggedRectangle x="337" y="66" width="256" height="38" offset="0" />
+      <taggedRectangle x="4" y="230" width="597" height="41" offset="0" />
+      <taggedRectangle x="4" y="271" width="527" height="40" offset="0" />
+      <taggedRectangle x="4" y="311" width="313" height="40" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVfALh2XIAEMVa1.png</imageName>
+    <resolution x="482" y="375" />
+    <taggedRectangles>
+      <taggedRectangle x="52" y="6" width="200" height="20" offset="0" />
+      <taggedRectangle x="52" y="26" width="75" height="18" offset="0" />
+      <taggedRectangle x="3" y="56" width="452" height="40" offset="0" />
+      <taggedRectangle x="3" y="96" width="473" height="39" offset="0" />
+      <taggedRectangle x="3" y="135" width="305" height="17" offset="0" />
+      <taggedRectangle x="3" y="152" width="473" height="77" offset="0" />
+      <taggedRectangle x="3" y="229" width="350" height="20" offset="0" />
+      <taggedRectangle x="3" y="249" width="464" height="24" offset="0" />
+      <taggedRectangle x="3" y="273" width="52" height="23" offset="0" />
+      <taggedRectangle x="3" y="296" width="457" height="21" offset="0" />
+      <taggedRectangle x="3" y="317" width="115" height="22" offset="0" />
+      <taggedRectangle x="3" y="339" width="194" height="22" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVfC4RGU4AAI5mw.jpg</imageName>
+    <resolution x="600" y="600" />
+    <taggedRectangles>
+      <taggedRectangle x="36" y="284" width="174" height="37" offset="0" />
+      <taggedRectangle x="36" y="321" width="207" height="35" offset="0" />
+      <taggedRectangle x="36" y="356" width="295" height="70" offset="0" />
+      <taggedRectangle x="36" y="426" width="175" height="34" offset="0" />
+      <taggedRectangle x="36" y="460" width="317" height="33" offset="0" />
+      <taggedRectangle x="36" y="493" width="202" height="36" offset="0" />
+      <taggedRectangle x="36" y="529" width="268" height="36" offset="0" />
+      <taggedRectangle x="348" y="540" width="154" height="21" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVfF5WrVEAEA7Lq.jpg</imageName>
+    <resolution x="540" y="543" />
+    <taggedRectangles>
+      <taggedRectangle x="106" y="43" width="65" height="18" offset="0" />
+      <taggedRectangle x="107" y="14" width="156" height="24" offset="0" />
+      <taggedRectangle x="35" y="84" width="474" height="26" offset="0" />
+      <taggedRectangle x="35" y="110" width="455" height="26" offset="0" />
+      <taggedRectangle x="35" y="136" width="432" height="52" offset="0" />
+      <taggedRectangle x="35" y="188" width="395" height="26" offset="0" />
+      <taggedRectangle x="35" y="214" width="450" height="26" offset="0" />
+      <taggedRectangle x="35" y="240" width="171" height="27" offset="0" />
+      <taggedRectangle x="35" y="293" width="472" height="26" offset="0" />
+      <taggedRectangle x="35" y="319" width="440" height="26" offset="0" />
+      <taggedRectangle x="35" y="345" width="88" height="25" offset="0" />
+      <taggedRectangle x="35" y="370" width="215" height="26" offset="0" />
+      <taggedRectangle x="35" y="396" width="289" height="26" offset="0" />
+      <taggedRectangle x="35" y="448" width="400" height="27" offset="0" />
+      <taggedRectangle x="35" y="501" width="416" height="26" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVfNnegWsAAerfC.jpg</imageName>
+    <resolution x="600" y="389" />
+    <taggedRectangles>
+      <taggedRectangle x="16" y="311" width="488" height="33" offset="0" />
+      <taggedRectangle x="16" y="344" width="519" height="33" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVfjCARUYAAB2NI.jpg</imageName>
+    <resolution x="300" y="250" />
+    <taggedRectangles>
+      <taggedRectangle x="7" y="162" width="288" height="41" offset="0" />
+      <taggedRectangle x="1" y="214" width="300" height="26" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CVfmJPKWIAAwMme.jpg</imageName>
+    <resolution x="480" y="480" />
+    <taggedRectangles>
+      <taggedRectangle x="22" y="26" width="434" height="45" offset="0" />
+      <taggedRectangle x="22" y="71" width="434" height="42" offset="0" />
+      <taggedRectangle x="303" y="113" width="153" height="23" offset="0" />
+    </taggedRectangles>
+  </image>
+  <image>
+    <imageName>./FinalDataset/CV1-pV7UwAEMnpk.jpg</imageName>
+    <resolution x="600" y="848" />
+    <taggedRectangles>
+      <taggedRectangle x="458" y="26" width="30" height="26" offset="0" />
+      <taggedRectangle x="126" y="45" width="334" height="30" offset="0" />
+      <taggedRectangle x="239" y="75" width="225" height="16" offset="0" />
+      <taggedRectangle x="74" y="129" width="476" height="39" offset="0" />
+      <taggedRectangle x="161" y="408" width="264" height="30" offset="0" />
+      <taggedRectangle x="23" y="443" width="554" height="66" offset="0" />
+      <taggedRectangle x="38" y="509" width="519" height="33" offset="0" />
+      <taggedRectangle x="109" y="572" width="384" height="22" offset="0" />
+      <taggedRectangle x="183" y="594" width="240" height="21" offset="0" />
+      <taggedRectangle x="250" y="628" width="101" height="22" offset="0" />
+      <taggedRectangle x="166" y="654" width="270" height="32" offset="0" />
+      <taggedRectangle x="217" y="693" width="168" height="20" offset="0" />
+      <taggedRectangle x="30" y="713" width="542" height="23" offset="0" />
+      <taggedRectangle x="40" y="746" width="518" height="28" offset="0" />
+      <taggedRectangle x="508" y="780" width="82" height="16" offset="0" />
+      <taggedRectangle x="70" y="806" width="465" height="40" offset="0" />
+    </taggedRectangles>
+  </image>
+</tagset>
